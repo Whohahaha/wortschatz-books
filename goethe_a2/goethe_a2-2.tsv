@@ -1,0 +1,592 @@
+# title: 歌德 A2 词书
+# 词头依据歌德学院 Goethe-Zertifikat A2 公开词表，只收比低一级词书新增的词；中文释义和例句为本项目自编。
+# 复数和动词变位来自 Wiktionary（经 kaikki.org 整理），CC BY-SA 4.0。
+id	level	pos	lemma	gender	plural	meaning	present3	preterite	participle	aux	example	example_zh
+abschliessen	A2	v	ab|schließen			锁上；结束；完成（学业等）	schließt ab	schloss ab	abgeschlossen	haben	Li schließt nächstes Jahr ihre Ausbildung ab.	李明年完成她的职业培训。
+ahnung	A2	n	Ahnung	die	Ahnungen	预感；概念					Ich habe keine Ahnung, wo mein Schlüssel ist.	我完全不知道我的钥匙在哪儿。
+aktiv	A2	adj	aktiv			积极的；活跃的					Mein Opa ist noch sehr aktiv und geht oft wandern.	我爷爷还很活跃，经常去徒步。
+aktuell	A2	adj	aktuell			当前的；最新的					Hast du die aktuellen Nachrichten gelesen?	你看最新的新闻了吗？
+all	A2	other	all			所有的；全部					Alle Studenten kommen heute zur Party.	所有学生今天都来参加聚会。
+als	A2	other	als			作为；当……时；比					Als Kind habe ich in Shanghai gewohnt.	小时候我住在上海。
+ampel	A2	n	Ampel	die	Ampeln	红绿灯					Die Ampel ist rot, wir müssen warten.	红灯了，我们得等一下。
+ander	A2	adj	ander			别的；其他的					Ich möchte lieber eine andere Farbe.	我更想要别的颜色。
+aendern	A2	v	ändern			改变；修改	ändert	änderte	geändert	haben	Wir müssen unseren Plan ändern.	我们必须改变计划。
+anders	A2	adv	anders			不同地；另外					Mei macht das ganz anders als ich.	梅做这件事的方式和我完全不同。
+angst	A2	n	Angst	die	Ängste	害怕；恐惧					Mein Sohn hat Angst vor großen Hunden.	我儿子怕大狗。
+ansehen	A2	v	an|sehen			看；观看	sieht an	sah an	angesehen	haben	Darf ich mir deine Fotos aus Peking ansehen?	我可以看看你在北京拍的照片吗？
+anzug	A2	n	Anzug	der	Anzüge	西装					Für die Hochzeit kauft er einen neuen Anzug.	他为婚礼买了一套新西装。
+apparat	A2	n	Apparat	der	Apparate	器具；电话机；相机					Der Apparat ist kaputt, ich brauche einen neuen.	这个机器坏了，我需要一个新的。
+aergern	A2	v	ärgern			（sich ~）生气；使生气	ärgert	ärgerte	geärgert	haben	Ich ärgere mich über den späten Bus.	我为公交车晚点而生气。
+artikel	A2	n	Artikel	der	Artikel	文章；冠词；商品					Hast du den Artikel in der Zeitung gelesen?	你读过报纸上的那篇文章吗？
+auf-jeden-fall	A2	other	auf jeden Fall			无论如何；一定					Ich komme auf jeden Fall zu deinem Geburtstag.	我一定会来参加你的生日。
+auf-keinen-fall	A2	other	auf keinen Fall			绝不；无论如何不					Du darfst auf keinen Fall zu spät kommen.	你绝对不能迟到。
+aufmachen	A2	v	auf|machen			打开；开门	macht auf	machte auf	aufgemacht	haben	Kannst du bitte das Fenster aufmachen?	你能把窗户打开吗？
+aufpassen	A2	v	auf|passen			注意；照看	passt auf	passte auf	aufgepasst	haben	Pass auf, die Straße ist sehr nass!	小心，路很滑！
+aufraeumen	A2	v	auf|räumen			收拾；整理	räumt auf	räumte auf	aufgeräumt	haben	Am Samstag räume ich mein Zimmer auf.	星期六我收拾房间。
+aufregend	A2	adj	aufregend			令人激动的					Die erste Woche in Berlin war sehr aufregend.	在柏林的第一周非常令人激动。
+ausbildung	A2	n	Ausbildung	die	Ausbildungen	职业培训；教育					Mei macht eine Ausbildung als Köchin.	梅在接受厨师职业培训。
+ausgeben	A2	v	aus|geben			花（钱）	gibt aus	gab aus	ausgegeben	haben	Wie viel Geld gibst du jeden Monat für Essen aus?	你每月在吃饭上花多少钱？
+ausgehen	A2	v	aus|gehen			出去（玩）；外出	geht aus	ging aus	ausgegangen	sein	Am Freitagabend gehen wir zusammen aus.	星期五晚上我们一起出去玩。
+auspacken	A2	v	aus|packen			拆开；取出	packt aus	packte aus	ausgepackt	haben	Nach der Reise packe ich sofort meinen Koffer aus.	旅行回来后我马上打开行李箱。
+ausruhen	A2	v	aus|ruhen			（sich ~）休息	ruht aus	ruhte aus	ausgeruht	haben	Nach der Arbeit ruhe ich mich auf dem Sofa aus.	下班后我在沙发上休息。
+ausser	A2	other	außer			除……之外					Außer Li sind alle schon da.	除了李，大家都到了。
+ausserdem	A2	adv	außerdem			此外；另外					Die Wohnung ist hell, außerdem ist sie billig.	这套房子很亮，而且还便宜。
+ausserhalb	A2	other	außerhalb			在……外面					Wir wohnen außerhalb der Stadt.	我们住在城外。
+aussprechen	A2	v	aus|sprechen			发音；说出	spricht aus	sprach aus	ausgesprochen	haben	Wie spricht man dieses Wort richtig aus?	这个词怎么正确发音？
+ausstellung	A2	n	Ausstellung	die	Ausstellungen	展览					Am Sonntag besuchen wir eine Ausstellung im Museum.	星期天我们去博物馆看展览。
+austragen	A2	v	aus|tragen			投递；分发	trägt aus	trug aus	ausgetragen	haben	Mein Bruder trägt am Morgen Zeitungen aus.	我弟弟早上送报纸。
+babysitter	A2	n	Babysitter	der	Babysitter	保姆；临时照看孩子的人					Heute Abend kommt ein Babysitter zu den Kindern.	今晚有个保姆来照看孩子们。
+backen	A2	v	backen			烤；烘焙	backt	backte	gebacken	haben	Am Wochenende backe ich einen Kuchen.	周末我烤一个蛋糕。
+ball	A2	n	Ball	der	Bälle	球；舞会					Die Kinder spielen im Garten mit dem Ball.	孩子们在花园里玩球。
+band	A2	n	Band	die	Bands	乐队					Meine Lieblingsband spielt nächste Woche in Hamburg.	我最喜欢的乐队下周在汉堡演出。
+basketball	A2	n	Basketball	der	Basketbälle	篮球					Nach der Schule spielen wir Basketball.	放学后我们打篮球。
+basteln	A2	v	basteln			手工制作	bastelt	bastelte	gebastelt	haben	Die Kinder basteln Sterne für Weihnachten.	孩子们为圣诞节手工做星星。
+bauen	A2	v	bauen			建造	baut	baute	gebaut	haben	Meine Eltern bauen ein Haus auf dem Land.	我父母在乡下盖房子。
+baustelle	A2	n	Baustelle	die	Baustellen	工地					Vor unserem Haus ist eine laute Baustelle.	我们房子前面有个吵闹的工地。
+beantworten	A2	v	beantworten			回答	beantwortet	beantwortete	beantwortet	haben	Kannst du bitte meine Frage beantworten?	你能回答我的问题吗？
+bedanken	A2	v	bedanken			（sich ~）道谢	bedankt	bedankte	bedankt	haben	Ich bedanke mich für deine Hilfe.	谢谢你的帮助。
+beeilen	A2	v	beeilen			（sich ~）赶快；抓紧	beeilt	beeilte	beeilt	haben	Wir müssen uns beeilen, der Zug fährt gleich.	我们得快点，火车马上要开了。
+beenden	A2	v	beenden			结束；完成	beendet	beendete	beendet	haben	Um sechs Uhr beendet er seine Arbeit.	他六点钟结束工作。
+begruenden	A2	v	begründen			说明理由	begründet	begründete	begründet	haben	Bitte begründen Sie Ihre Meinung.	请说明您观点的理由。
+beliebt	A2	adj	beliebt			受欢迎的					Fußball ist in Deutschland sehr beliebt.	足球在德国很受欢迎。
+bequem	A2	adj	bequem			舒适的；方便的					Diese Schuhe sind sehr bequem.	这双鞋很舒服。
+beraten	A2	v	beraten			咨询；提供建议	berät	beriet	beraten	haben	Die Verkäuferin berät mich beim Kauf.	售货员在我购物时给我建议。
+berg	A2	n	Berg	der	Berge	山					Im Sommer wandern wir in den Bergen.	夏天我们去山里徒步。
+berichten	A2	v	berichten			报道；讲述	berichtet	berichtete	berichtet	haben	Li berichtet von ihrer Reise nach Shanghai.	李讲述她去上海的旅行。
+beruehmt	A2	adj	berühmt			著名的					Der Kölner Dom ist sehr berühmt.	科隆大教堂非常有名。
+bescheid-sagen	A2	v	Bescheid sagen			通知；告知（~ bekommen/geben）					Sag mir bitte Bescheid, wenn du ankommst.	你到了请告诉我一声。
+beschreiben	A2	v	beschreiben			描述	beschreibt	beschrieb	beschrieben	haben	Kannst du mir den Weg zum Bahnhof beschreiben?	你能给我描述一下去火车站的路吗？
+beschweren	A2	v	beschweren			（sich ~）投诉；抱怨	beschwert	beschwerte	beschwert	haben	Wir beschweren uns über den Lärm.	我们投诉噪音。
+besonders	A2	adv	besonders			特别；尤其					Das Essen hier ist besonders gut.	这里的饭菜特别好吃。
+bestaetigen	A2	v	bestätigen			确认；证实	bestätigt	bestätigte	bestätigt	haben	Bitte bestätigen Sie den Termin per E-Mail.	请通过电子邮件确认约定时间。
+bestehen	A2	v	bestehen			通过（考试）；存在	besteht	bestand	bestanden	haben	Wang hat die Prüfung bestanden.	王通过了考试。
+besuch	A2	n	Besuch	der	Besuche	拜访；访客					Am Wochenende bekommen wir Besuch aus China.	周末有中国来的客人来看我们。
+bewerben	A2	v	bewerben			（sich ~ um）申请（职位）	bewirbt	bewarb	beworben	haben	Mei bewirbt sich um eine Stelle als Ingenieurin.	梅申请一个工程师的职位。
+bewerbung	A2	n	Bewerbung	die	Bewerbungen	申请；求职信					Ich schreibe heute eine Bewerbung.	我今天写一封求职信。
+bewoelkt	A2	adj	bewölkt			多云的					Heute ist der Himmel bewölkt.	今天天空多云。
+wolke	A2	n	Wolke	die	Wolken	云					Am Himmel ist keine Wolke.	天上一片云也没有。
+bibliothek	A2	n	Bibliothek	die	Bibliotheken	图书馆					Wir lernen zusammen in der Bibliothek.	我们一起在图书馆学习。
+bisschen	A2	other	bisschen			（ein ~）一点儿					Ich spreche ein bisschen Deutsch.	我会说一点德语。
+blatt	A2	n	Blatt	das	Blätter	叶子；（一张）纸					Gib mir bitte ein Blatt Papier.	请给我一张纸。
+bloed	A2	adj	blöd			愚蠢的；糟糕的（口）					So ein blöder Tag!	多么糟糕的一天！
+blog	A2	n	Blog	der	Blogs	博客					Li schreibt einen Blog über ihr Leben in Deutschland.	李写了一个关于她在德国生活的博客。
+blond	A2	adj	blond			金发的					Meine Freundin hat lange blonde Haare.	我的女朋友有一头金色长发。
+bluse	A2	n	Bluse	die	Blusen	女式衬衫					Die blaue Bluse steht dir gut.	这件蓝色衬衫很适合你。
+bohne	A2	n	Bohne	die	Bohnen	豆子					Zum Fleisch gibt es grüne Bohnen.	肉配四季豆。
+braten	A2	v	braten			煎；烤	brät	briet	gebraten	haben	Mein Vater brät Fisch in der Pfanne.	我爸爸在锅里煎鱼。
+brille	A2	n	Brille	die	Brillen	眼镜					Ohne Brille kann ich nichts lesen.	不戴眼镜我什么也看不了。
+buchen	A2	v	buchen			预订	bucht	buchte	gebucht	haben	Wir buchen einen Flug nach Peking.	我们订一张去北京的机票。
+bunt	A2	adj	bunt			彩色的；多彩的					Die Kinder malen bunte Bilder.	孩子们画彩色的画。
+buero	A2	n	Büro	das	Büros	办公室					Ich bin bis fünf Uhr im Büro.	我五点前都在办公室。
+cafeteria	A2	n	Cafeteria	die	Cafeterias	自助餐厅；食堂					Wir essen mittags in der Cafeteria.	我们中午在食堂吃饭。
+chatten	A2	v	chatten			网上聊天	chattet	chattete	gechattet	haben	Abends chatte ich mit meinen Freunden in China.	晚上我和在中国的朋友网上聊天。
+chefin	A2	n	Chefin	die	Chefinnen	女上司；女老板					Meine Chefin ist sehr nett.	我的女上司人很好。
+club	A2	n	Club	der	Clubs	俱乐部					Mein Sohn spielt Tennis in einem Club.	我儿子在一个俱乐部打网球。
+comic	A2	n	Comic	der	Comics	连环画；漫画					Mein Bruder liest gern Comics.	我弟弟喜欢看漫画。
+dabei-sein	A2	v	dabei sein			在场；带在身上；参加					Hast du deinen Ausweis dabei?	你带身份证了吗？
+dafuer-sein	A2	v	dafür sein			赞成					Wir machen ein Picknick – bist du dafür?	我们去野餐——你赞成吗？
+dagegen-sein	A2	v	dagegen sein			反对					Mein Vater ist dagegen, dass ich allein reise.	我爸爸反对我一个人旅行。
+damals	A2	adv	damals			当时；那时					Damals habe ich noch in Shanghai gewohnt.	那时我还住在上海。
+dass	A2	other	dass			（连词）……这件事					Ich weiß, dass du morgen Geburtstag hast.	我知道你明天过生日。
+datei	A2	n	Datei	die	Dateien	文件（电脑）					Schick mir bitte die Datei per E-Mail.	请用邮件把文件发给我。
+denken	A2	v	denken			想；认为	denkt	dachte	gedacht	haben	Ich denke oft an meine Familie.	我经常想念我的家人。
+deshalb	A2	adv	deshalb			因此；所以					Ich bin krank, deshalb bleibe ich zu Hause.	我病了，所以待在家里。
+deutlich	A2	adj	deutlich			清楚的；明显的					Bitte sprechen Sie etwas deutlicher.	请您说得清楚一点。
+dick	A2	adj	dick			厚的；胖的					Das Buch ist sehr dick.	这本书很厚。
+ding	A2	n	Ding	das	Dinge	东西；事情					Was ist das für ein Ding?	这是什么东西？
+direkt	A2	adj	direkt			直接的；直达的					Der Bus fährt direkt zum Flughafen.	这趟公交车直达机场。
+disko	A2	n	Disko	die	Diskos	迪斯科舞厅					Am Samstag gehen wir in die Disko.	星期六我们去迪厅。
+diskutieren	A2	v	diskutieren			讨论	diskutiert	diskutierte	diskutiert	haben	Wir diskutieren über das Thema Umwelt.	我们讨论环境这个话题。
+doch	A2	other	doch			（反驳否定）不，……是；可是；倒是					Kommst du nicht mit? – Doch, ich komme mit!	你不一起来吗？——不，我来！
+dringend	A2	adj	dringend			紧急的					Ich muss dringend mit dir sprechen.	我必须马上和你谈谈。
+drinnen	A2	adv	drinnen			在里面；在室内					Es regnet, wir spielen lieber drinnen.	下雨了，我们还是在室内玩吧。
+drueben	A2	adv	drüben			在那边；在对面					Die Apotheke ist dort drüben.	药店在那边。
+dunkel	A2	adj	dunkel			黑暗的；深色的					Im Winter wird es früh dunkel.	冬天天黑得早。
+duenn	A2	adj	dünn			薄的；瘦的					Sie trägt nur eine dünne Jacke.	她只穿了一件薄外套。
+e-book	A2	n	E-Book	das	E-Books	电子书					Ich lese gern E-Books auf meinem Handy.	我喜欢在手机上看电子书。
+echt	A2	adj	echt			真的；真正的（口）					Das Konzert war echt toll!	音乐会真的太棒了！
+egal	A2	adj	egal			无所谓的					Das ist mir egal.	这对我来说无所谓。
+ehepartner	A2	n	Ehepartner	der	Ehepartner	配偶					Bringen Sie bitte Ihren Ehepartner mit.	请带您的配偶一起来。
+eigen	A2	adj	eigen			自己的					Wang hat jetzt ein eigenes Zimmer.	王现在有了自己的房间。
+eigentlich	A2	adv	eigentlich			其实；本来					Eigentlich wollte ich heute ins Kino gehen.	其实我今天本来想去看电影。
+einig	A2	other	einig			一些；一致的					Ich habe noch einige Fragen.	我还有一些问题。
+einkaufszentrum	A2	n	Einkaufszentrum	das	Einkaufszentren	购物中心					Das Einkaufszentrum ist am Sonntag geschlossen.	购物中心星期天关门。
+einpacken	A2	v	ein|packen			包装；装进	packt ein	packte ein	eingepackt	haben	Hast du die Geschenke schon eingepackt?	你已经把礼物包好了吗？
+eintragen	A2	v	ein|tragen			（sich ~）登记；填写	trägt ein	trug ein	eingetragen	haben	Bitte tragen Sie Ihren Namen in die Liste ein.	请把您的名字填在名单上。
+einverstanden-sein	A2	v	einverstanden sein			同意					Bist du einverstanden, wenn wir später essen?	我们晚点吃饭，你同意吗？
+einzel	A2	adj	einzel			单个的（构词用，如Einzelzimmer）					Wir möchten zwei Einzelzimmer buchen.	我们想订两间单人房。
+einziehen	A2	v	ein|ziehen			搬入	zieht ein	zog ein	eingezogen	sein	Nächste Woche ziehen wir in die neue Wohnung ein.	下周我们搬进新公寓。
+eis	A2	n	Eis	das		冰；冰淇淋					Im Sommer essen die Kinder gern Eis.	夏天孩子们喜欢吃冰淇淋。
+endlich	A2	adv	endlich			终于					Endlich sind die Ferien da!	假期终于到了！
+eng	A2	adj	eng			窄的；紧的					Die Hose ist mir zu eng.	这条裤子我穿太紧了。
+erdgeschoss	A2	n	Erdgeschoss	das	Erdgeschosse	底层；一楼					Die Bäckerei ist im Erdgeschoss.	面包店在一楼。
+erfahrung	A2	n	Erfahrung	die	Erfahrungen	经验；经历					Mei hat viel Erfahrung als Lehrerin.	梅作为老师很有经验。
+erinnern	A2	v	erinnern			（sich ~ an）记得；回忆；提醒	erinnert	erinnerte	erinnert	haben	Erinnerst du dich an unseren Urlaub in China?	你还记得我们在中国的假期吗？
+erkaeltet-sein	A2	v	erkältet sein			感冒了					Ich bin erkältet und bleibe heute im Bett.	我感冒了，今天待在床上。
+erlaubt-sein	A2	v	erlaubt sein			被允许					Rauchen ist hier nicht erlaubt.	这里不允许吸烟。
+erlaubnis	A2	n	Erlaubnis	die		许可					Für den Ausflug brauchen die Kinder eine Erlaubnis.	孩子们去郊游需要许可。
+ermaessigung	A2	n	Ermäßigung	die	Ermäßigungen	优惠；折扣					Studenten bekommen eine Ermäßigung im Museum.	学生在博物馆享受优惠。
+erreichen	A2	v	erreichen			到达；赶上；联系到	erreicht	erreichte	erreicht	haben	Ich kann dich telefonisch nicht erreichen.	我打电话联系不上你。
+erst	A2	adv	erst			才；首先					Der Film beginnt erst um neun Uhr.	电影九点才开始。
+fach	A2	n	Fach	das	Fächer	科目；专业；格子					Mathe ist mein Lieblingsfach.	数学是我最喜欢的科目。
+fahrplan	A2	n	Fahrplan	der	Fahrpläne	时刻表					Schau mal auf den Fahrplan, wann fährt der Bus?	看看时刻表，公交车几点开？
+fallen	A2	v	fallen			掉落；摔倒；下降	fällt	fiel	gefallen	sein	Das Glas ist auf den Boden gefallen.	杯子掉到地上了。
+fan	A2	n	Fan	der	Fans	迷；粉丝					Mein Bruder ist ein großer Fan von Bayern München.	我哥哥是拜仁慕尼黑的铁杆球迷。
+fantastisch	A2	adj	fantastisch			极好的；奇妙的					Das Wetter am Meer war fantastisch.	海边的天气好极了。
+fast	A2	adv	fast			几乎；差不多					Ich bin fast fertig mit den Hausaufgaben.	我作业快做完了。
+faul	A2	adj	faul			懒惰的；腐烂的					Am Sonntag bin ich gern faul.	星期天我喜欢偷懒。
+feierabend	A2	n	Feierabend	der	Feierabende	下班；工作结束后的时间					Um fünf Uhr habe ich Feierabend.	我五点下班。
+fernseher	A2	n	Fernseher	der	Fernseher	电视机					Wir haben einen neuen Fernseher gekauft.	我们买了一台新电视机。
+fertig-sein	A2	v	fertig sein			完成了；准备好了；（口）累垮了					Bist du endlich fertig? Wir müssen los.	你终于好了吗？我们得走了。
+fest	A2	n	Fest	das	Feste	节日；庆祝会					Zum Frühlingsfest essen wir Jiaozi.	春节我们吃饺子。
+festival	A2	n	Festival	das	Festivals	节；音乐节					Im Sommer fahren wir zu einem Musikfestival.	夏天我们去参加一个音乐节。
+fett	A2	adj	fett			油腻的；肥的					Das Essen ist mir zu fett.	这饭菜对我来说太油腻了。
+fit-sein	A2	v	fit sein			身体健康；状态好					Nach dem Urlaub bin ich wieder fit.	度假之后我又精神饱满了。
+fleissig	A2	adj	fleißig			勤奋的					Mei ist eine sehr fleißige Studentin.	梅是一个非常勤奋的大学生。
+flohmarkt	A2	n	Flohmarkt	der	Flohmärkte	跳蚤市场					Am Samstag gehen wir auf den Flohmarkt.	星期六我们去跳蚤市场。
+flug	A2	n	Flug	der	Flüge	飞行；航班					Der Flug nach Peking dauert zehn Stunden.	飞往北京的航班要飞十个小时。
+fluss	A2	n	Fluss	der	Flüsse	河，江					Der Rhein ist ein langer Fluss.	莱茵河是一条很长的河。
+fotoapparat	A2	n	Fotoapparat	der	Fotoapparate	照相机					Mein Fotoapparat ist leider kaputt.	可惜我的照相机坏了。
+fotografieren	A2	v	fotografieren			拍照，照相	fotografiert	fotografierte	fotografiert	haben	Li fotografiert gern alte Häuser.	李喜欢拍老房子。
+freiwillig	A2	adj	freiwillig			自愿的；志愿的					Sie arbeitet freiwillig im Krankenhaus.	她在医院做志愿工作。
+freundlich	A2	adj	freundlich			友好的，热情的					Die Verkäuferin war sehr freundlich.	那位女售货员非常友好。
+frisch	A2	adj	frisch			新鲜的；干净的					Das Brot ist ganz frisch.	这面包很新鲜。
+froh	A2	adj	froh			高兴的，愉快的					Ich bin froh, dass du da bist.	你来了我很高兴。
+frueh	A2	adj	früh			早的；早地					Morgen muss ich früh aufstehen.	明天我得早起。
+fuehlen	A2	v	fühlen			感觉；（sich ~）觉得（身体/心情）	fühlt	fühlte	gefühlt	haben	Heute fühle ich mich nicht gut.	今天我感觉不舒服。
+fuehrerschein	A2	n	Führerschein	der	Führerscheine	驾驶执照					Wang macht gerade den Führerschein.	王正在考驾照。
+fundsachen	A2	n	Fundsachen	die		失物，招领物品					Die Fundsachen sind im Büro am Eingang.	失物在入口处的办公室里。
+furchtbar	A2	adj	furchtbar			可怕的；（口）非常，极其					Das Wetter ist heute furchtbar.	今天的天气糟透了。
+gabel	A2	n	Gabel	die	Gabeln	叉子					Kannst du mir bitte eine Gabel geben?	你能给我一把叉子吗？
+ganz	A2	adv	ganz			完全；相当；整个的					Die Wohnung ist ganz neu.	这套公寓是全新的。
+garage	A2	n	Garage	die	Garagen	车库					Das Auto steht in der Garage.	汽车停在车库里。
+geehrt	A2	adj	geehrt			尊敬的（信件称呼）					Sehr geehrte Frau Müller, vielen Dank für Ihre Mail.	尊敬的米勒女士，非常感谢您的邮件。
+gefaehrlich	A2	adj	gefährlich			危险的					Diese Straße ist nachts gefährlich.	这条街晚上很危险。
+gegenteil	A2	n	Gegenteil	das	Gegenteile	相反，反面					Das Gegenteil von „heiß" ist „kalt".	“热”的反义词是“冷”。
+gegenueber	A2	other	gegenüber			在……对面；对……					Die Bank ist gegenüber dem Bahnhof.	银行在火车站对面。
+gehalt	A2	n	Gehalt	das	Gehälter	工资，薪水					Ihr Gehalt ist nicht sehr hoch.	她的工资不是很高。
+geldboerse	A2	n	Geldbörse	die	Geldbörsen	钱包					Ich habe meine Geldbörse verloren.	我把钱包丢了。
+genau	A2	adj	genau			准确的；正是，确实					Weißt du genau, wann der Zug fährt?	你确切知道火车什么时候开吗？
+genug	A2	adv	genug			足够					Wir haben genug Zeit.	我们有足够的时间。
+geraet	A2	n	Gerät	das	Geräte	器具，设备					Dieses Gerät ist sehr praktisch.	这个设备非常实用。
+gericht	A2	n	Gericht	das	Gerichte	菜肴；法院					Dieses chinesische Gericht ist sehr scharf.	这道中国菜很辣。
+geschichte	A2	n	Geschichte	die	Geschichten	故事；历史					Mein Opa erzählt gern Geschichten.	我爷爷喜欢讲故事。
+geschirr	A2	n	Geschirr	das		餐具					Nach dem Essen spüle ich das Geschirr.	饭后我洗碗。
+gesicht	A2	n	Gesicht	das	Gesichter	脸					Das Kind hat ein rundes Gesicht.	这个孩子有一张圆脸。
+gesund	A2	adj	gesund			健康的					Obst und Gemüse sind gesund.	水果和蔬菜有益健康。
+gesundheit	A2	n	Gesundheit	die		健康					Sport ist gut für die Gesundheit.	运动对健康有益。
+gewitter	A2	n	Gewitter	das	Gewitter	雷雨					Heute Abend gibt es ein Gewitter.	今晚有雷雨。
+gitarre	A2	n	Gitarre	die	Gitarren	吉他					Mein Bruder spielt sehr gut Gitarre.	我哥哥吉他弹得很好。
+grippe	A2	n	Grippe	die		流感					Ich habe Grippe und bleibe im Bett.	我得了流感，卧床休息。
+gueltig-sein	A2	v	gültig sein			有效					Mein Pass ist noch zwei Jahre gültig.	我的护照还有两年有效期。
+hals	A2	n	Hals	der	Hälse	脖子；嗓子					Mein Hals tut weh.	我嗓子疼。
+hamburger	A2	n	Hamburger	der	Hamburger	汉堡包；汉堡人					Die Kinder essen gern Hamburger.	孩子们喜欢吃汉堡包。
+handtuch	A2	n	Handtuch	das	Handtücher	毛巾					Das Handtuch liegt im Bad.	毛巾在浴室里。
+haengen	A2	v	hängen			挂着（hat gehangen）；挂上（hat gehängt）	hängt	hing	gehangen	haben	Ich hänge das Bild an die Wand.	我把画挂到墙上。
+hart	A2	adj	hart			硬的；艰苦的					Das Bett im Hotel war zu hart.	酒店的床太硬了。
+haesslich	A2	adj	hässlich			丑陋的，难看的					Ich finde diese Jacke hässlich.	我觉得这件夹克很难看。
+hauptstadt	A2	n	Hauptstadt	die	Hauptstädte	首都					Peking ist die Hauptstadt von China.	北京是中国的首都。
+haushalt	A2	n	Haushalt	der	Haushalte	家务；家庭					Wer macht bei euch den Haushalt?	你们家谁做家务？
+heft	A2	n	Heft	das	Hefte	本子，练习本					Schreibt die Wörter bitte ins Heft.	请把单词写到本子上。
+heiss	A2	adj	heiß			热的，烫的					Vorsicht, der Tee ist heiß!	小心，茶很烫！
+heizung	A2	n	Heizung	die	Heizungen	暖气					Die Heizung funktioniert nicht.	暖气坏了。
+hemd	A2	n	Hemd	das	Hemden	衬衫					Er trägt ein weißes Hemd.	他穿着一件白衬衫。
+her	A2	adv	her			（向说话人）这边来					Komm bitte mal her!	请过来一下！
+heraus	A2	adv	heraus			（口 raus）出来					Komm bitte aus dem Wasser heraus!	请从水里出来！
+herein	A2	adv	herein			（口 rein）进来					Herein, die Tür ist offen!	请进，门开着呢！
+herstellen	A2	v	her|stellen			生产，制造	stellt her	stellte her	hergestellt	haben	Die Firma stellt Autos her.	这家公司生产汽车。
+herunterladen	A2	v	herunter|laden			下载	lädt herunter	lud herunter	heruntergeladen	haben	Ich lade die App sofort herunter.	我马上下载这个应用。
+himmel	A2	n	Himmel	der		天空					Heute ist der Himmel ganz blau.	今天天空湛蓝。
+hin	A2	adv	hin			（离开说话人）去那边					Wo gehst du hin?	你去哪儿？
+hinter	A2	other	hinter			在……后面					Der Garten ist hinter dem Haus.	花园在房子后面。
+hoffen	A2	v	hoffen			希望	hofft	hoffte	gehofft	haben	Ich hoffe, du kommst bald wieder.	我希望你很快再来。
+hoffentlich	A2	adv	hoffentlich			但愿					Hoffentlich regnet es morgen nicht.	但愿明天别下雨。
+homepage	A2	n	Homepage	die	Homepages	主页，网站					Die Öffnungszeiten stehen auf der Homepage.	营业时间在网站主页上。
+hose	A2	n	Hose	die	Hosen	裤子					Die Hose ist mir zu lang.	这条裤子我穿太长了。
+husten	A2	v	husten			咳嗽	hustet	hustete	gehustet	haben	Das Kind hustet schon seit Tagen.	这个孩子已经咳嗽好几天了。
+idee	A2	n	Idee	die	Ideen	主意，想法					Das ist eine gute Idee!	这是个好主意！
+informieren	A2	v	informieren			通知；（sich ~ über）了解，打听	informiert	informierte	informiert	haben	Ich informiere mich im Internet über den Kurs.	我在网上了解这门课程。
+insel	A2	n	Insel	die	Inseln	岛					Im Sommer fahren wir auf eine Insel.	夏天我们去一个岛上。
+instrument	A2	n	Instrument	das	Instrumente	乐器；仪器					Spielst du ein Instrument?	你会演奏乐器吗？
+intelligent	A2	adj	intelligent			聪明的					Unser Hund ist sehr intelligent.	我们的狗非常聪明。
+interesse	A2	n	Interesse	das	Interessen	兴趣；关心					Li hat großes Interesse an Musik.	李对音乐很感兴趣。
+interessieren	A2	v	interessieren			使感兴趣；（sich ~ für）对……感兴趣	interessiert	interessierte	interessiert	haben	Interessierst du dich für Fußball?	你对足球感兴趣吗？
+interessant	A2	adj	interessant			有趣的					Der Film war sehr interessant.	这部电影很有意思。
+interview	A2	n	Interview	das	Interviews	采访，访谈					Ich habe morgen ein Interview mit der Zeitung.	我明天接受报纸的采访。
+jeans	A2	n	Jeans	die		牛仔裤					Diese Jeans sind zu eng.	这条牛仔裤太紧了。
+jemand	A2	other	jemand			某人，有人					Hat jemand meinen Schlüssel gesehen?	有人看到我的钥匙了吗？
+joggen	A2	v	joggen			慢跑	joggt	joggte	gejoggt	sein	Wir joggen jeden Morgen im Park.	我们每天早上在公园慢跑。
+jugendherberge	A2	n	Jugendherberge	die	Jugendherbergen	青年旅舍					Wir übernachten in einer Jugendherberge.	我们在一家青年旅舍过夜。
+kalender	A2	n	Kalender	der	Kalender	日历					Ich schreibe den Termin in meinen Kalender.	我把约会写到日历上。
+kalt	A2	adj	kalt			冷的					Im Winter ist es in Berlin sehr kalt.	柏林冬天很冷。
+kamera	A2	n	Kamera	die	Kameras	照相机；摄像机					Mit der Kamera mache ich schöne Fotos.	我用这台相机拍漂亮的照片。
+kaese	A2	n	Käse	der		奶酪					Ich esse gern Brot mit Käse.	我喜欢吃面包配奶酪。
+kaufhaus	A2	n	Kaufhaus	das	Kaufhäuser	百货商店					Das Kaufhaus ist bis 20 Uhr geöffnet.	百货商店营业到晚上八点。
+keller	A2	n	Keller	der	Keller	地下室					Die Fahrräder stehen im Keller.	自行车放在地下室。
+kenntnisse	A2	n	Kenntnisse	die		知识，技能					Für die Stelle braucht man gute Kenntnisse in Englisch.	这个职位需要良好的英语知识。
+kette	A2	n	Kette	die	Ketten	链子；项链					Sie trägt eine schöne Kette.	她戴着一条漂亮的项链。
+kirche	A2	n	Kirche	die	Kirchen	教堂					Die Kirche ist sehr alt.	这座教堂非常古老。
+klappen	A2	v	klappen			（口）顺利，成功	klappt	klappte	geklappt	haben	Hat es mit der Wohnung geklappt?	房子的事办成了吗？
+klavier	A2	n	Klavier	das	Klaviere	钢琴					Meine Tochter lernt Klavier.	我女儿在学钢琴。
+kleid	A2	n	Kleid	das	Kleider	连衣裙					Das rote Kleid steht dir gut.	这条红裙子很适合你。
+klug	A2	adj	klug			聪明的					Das war eine kluge Entscheidung.	那是个明智的决定。
+kollegin	A2	n	Kollegin	die	Kolleginnen	女同事					Meine Kollegin kommt aus Spanien.	我的女同事来自西班牙。
+komisch	A2	adj	komisch			滑稽的；奇怪的					Das Essen schmeckt komisch.	这饭味道怪怪的。
+kontakt	A2	n	Kontakt	der	Kontakte	联系，接触					Ich habe noch Kontakt zu meinen Freunden in China.	我和中国的朋友还保持联系。
+kontrollieren	A2	v	kontrollieren			检查，查验	kontrolliert	kontrollierte	kontrolliert	haben	Im Zug kontrolliert der Schaffner die Fahrkarten.	列车员在火车上查票。
+konzert	A2	n	Konzert	das	Konzerte	音乐会					Am Freitag gehen wir ins Konzert.	星期五我们去听音乐会。
+koerper	A2	n	Körper	der	Körper	身体					Sport ist gut für Körper und Kopf.	运动对身体和头脑都有好处。
+kosmetik	A2	n	Kosmetik	die		化妆品；美容					Sie kauft ihre Kosmetik im Internet.	她在网上买化妆品。
+kostenlos	A2	adj	kostenlos			免费的					Der Eintritt ins Museum ist kostenlos.	博物馆免费入场。
+krankenhaus	A2	n	Krankenhaus	das	Krankenhäuser	医院					Mein Vater liegt im Krankenhaus.	我父亲住院了。
+krankenkasse	A2	n	Krankenkasse	die	Krankenkassen	医疗保险公司					Die Krankenkasse bezahlt den Arzt.	医疗保险公司支付看病费用。
+krankheit	A2	n	Krankheit	die	Krankheiten	疾病					Diese Krankheit ist nicht gefährlich.	这种病不危险。
+kredit	A2	n	Kredit	der	Kredite	贷款					Für das Auto brauchen wir einen Kredit.	买车我们需要贷款。
+kreuzung	A2	n	Kreuzung	die	Kreuzungen	十字路口					An der Kreuzung biegen Sie links ab.	在十字路口请向左转。
+krimi	A2	n	Krimi	der	Krimis	侦探小说；侦探片					Am Sonntag sehe ich gern einen Krimi.	星期天我喜欢看侦探片。
+kultur	A2	n	Kultur	die	Kulturen	文化					Wang interessiert sich für die deutsche Kultur.	王对德国文化感兴趣。
+kundin	A2	n	Kundin	die	Kundinnen	女顾客					Die Kundin möchte die Schuhe umtauschen.	这位女顾客想换鞋。
+kuendigen	A2	v	kündigen			解约；辞职	kündigt	kündigte	gekündigt	haben	Ich habe meine Wohnung gekündigt.	我退租了我的公寓。
+kunst	A2	n	Kunst	die	Künste	艺术					Meine Schwester studiert Kunst in Wien.	我姐姐在维也纳学艺术。
+landschaft	A2	n	Landschaft	die	Landschaften	风景，景色					Die Landschaft in Bayern ist wunderschön.	巴伐利亚的风景美极了。
+langweilig	A2	adj	langweilig			无聊的					Der Film war total langweilig.	这部电影无聊透了。
+laptop	A2	n	Laptop	der	Laptops	笔记本电脑					Ich arbeite oft mit dem Laptop im Café.	我经常带笔记本电脑在咖啡馆工作。
+lassen	A2	v	lassen			让；留下；放弃	lässt	ließ	gelassen	haben	Ich lasse mein Auto heute zu Hause.	今天我把车留在家里。
+leer	A2	adj	leer			空的					Der Kühlschrank ist leer.	冰箱是空的。
+leidtun	A2	v	leid|tun			感到抱歉，遗憾	tut leid	tat leid	leidgetan	haben	Es tut mir leid, ich komme zu spät.	对不起，我来晚了。
+leihen	A2	v	leihen			借（出/入）	leiht	lieh	geliehen	haben	Kannst du mir dein Fahrrad leihen?	你能把自行车借给我吗？
+letzt	A2	adj	letzt			最后的；上一个的					Letzte Woche war ich in Hamburg.	上周我在汉堡。
+liefern	A2	v	liefern			送货，供应	liefert	lieferte	geliefert	haben	Der Shop liefert die Möbel am Montag.	商店星期一送家具。
+link	A2	n	Link	der	Links	链接					Ich schicke dir den Link per Mail.	我把链接用邮件发给你。
+loeffel	A2	n	Löffel	der	Löffel	勺子					Ich brauche einen Löffel für die Suppe.	我需要一把勺子喝汤。
+luege	A2	n	Lüge	die	Lügen	谎言					Das ist eine Lüge!	这是谎话！
+luegen	A2	v	lügen			说谎	lügt	log	gelogen	haben	Du sollst nicht lügen.	你不应该说谎。
+lust	A2	n	Lust	die		兴致，乐意					Hast du Lust auf Kino?	你想去看电影吗？
+mal	A2	adv	mal			（口）一下；次，倍					Kannst du mal kurz kommen?	你能过来一下吗？
+mal-n	A2	n	Mal	das	Male	次，回					Ich war zum ersten Mal in Deutschland.	我第一次来德国。
+malen	A2	v	malen			画画，绘画	malt	malte	gemalt	haben	Die Kinder malen ein Bild.	孩子们在画一幅画。
+manch	A2	other	manch			有些，某些					Manche Leute stehen sehr früh auf.	有些人起得很早。
+manchmal	A2	adv	manchmal			有时					Manchmal fahre ich mit dem Rad zur Arbeit.	我有时骑自行车上班。
+mannschaft	A2	n	Mannschaft	die	Mannschaften	队，球队					Unsere Mannschaft hat gewonnen.	我们队赢了。
+mantel	A2	n	Mantel	der	Mäntel	大衣					Zieh deinen Mantel an, es ist kalt!	穿上大衣，天冷！
+markt	A2	n	Markt	der	Märkte	市场，集市					Ich kaufe Obst auf dem Markt.	我在集市上买水果。
+medikament	A2	n	Medikament	das	Medikamente	药物					Das Medikament hilft gegen Kopfschmerzen.	这种药治头痛。
+meinen	A2	v	meinen			认为；意思是	meint	meinte	gemeint	haben	Was meinst du dazu?	你对此怎么看？
+meinung	A2	n	Meinung	die	Meinungen	意见，看法					Meiner Meinung nach ist das richtig.	我认为这是对的。
+meist	A2	other	meist			大多数的；最多的					Die meisten Studenten wohnen im Wohnheim.	大多数学生住在宿舍里。
+meistens	A2	adv	meistens			通常，大多					Meistens trinke ich morgens Kaffee.	我早上通常喝咖啡。
+menge	A2	n	Menge	die	Mengen	数量；大量					Er hat eine Menge Bücher.	他有很多书。
+merken	A2	v	merken			注意到，察觉；（sich ~）记住	merkt	merkte	gemerkt	haben	Ich kann mir die Wörter nicht merken.	我记不住这些单词。
+messe	A2	n	Messe	die	Messen	博览会；弥撒					Die Messe in Frankfurt ist sehr bekannt.	法兰克福博览会非常有名。
+messer	A2	n	Messer	das	Messer	刀					Das Messer ist sehr scharf.	这把刀非常锋利。
+mindestens	A2	adv	mindestens			至少					Ich schlafe mindestens sieben Stunden.	我至少睡七个小时。
+mineralwasser	A2	n	Mineralwasser	das		矿泉水					Eine Flasche Mineralwasser, bitte.	请来一瓶矿泉水。
+mitspielen	A2	v	mit|spielen			一起玩，参加比赛	spielt mit	spielte mit	mitgespielt	haben	Darf ich mitspielen?	我可以一起玩吗？
+mitarbeiter	A2	n	Mitarbeiter	der	Mitarbeiter	员工，同事					Die Firma hat fünfzig Mitarbeiter.	这家公司有五十名员工。
+mittagessen	A2	n	Mittagessen	das	Mittagessen	午饭					Was gibt es heute zum Mittagessen?	今天午饭吃什么？
+mittel	A2	n	Mittel	das	Mittel	药剂；手段，方法					Haben Sie ein Mittel gegen Husten?	您有止咳的药吗？
+mobiltelefon	A2	n	Mobiltelefon	das	Mobiltelefone	手机					Mein Mobiltelefon ist schon alt.	我的手机已经很旧了。
+mode	A2	n	Mode	die	Moden	时尚，潮流					Sie interessiert sich sehr für Mode.	她对时尚很感兴趣。
+modern	A2	adj	modern			现代的，时髦的					Die Küche ist sehr modern.	厨房很现代化。
+motor	A2	n	Motor	der	Motoren	发动机					Der Motor macht komische Geräusche.	发动机发出奇怪的声音。
+motorroller	A2	n	Motorroller	der	Motorroller	摩托踏板车；小型摩托					Mein Bruder fährt jeden Tag mit dem Motorroller zur Arbeit.	我哥哥每天骑踏板摩托去上班。
+muell	A2	n	Müll	der		垃圾					Kannst du bitte den Müll runterbringen?	你能把垃圾拿下楼吗？
+museum	A2	n	Museum	das	Museen	博物馆					Am Sonntag gehen wir ins Museum.	星期天我们去博物馆。
+musik	A2	n	Musik	die		音乐					Li hört beim Lernen gern leise Musik.	李学习时喜欢听轻音乐。
+muetze	A2	n	Mütze	die	Mützen	（无檐）帽子；毛线帽					Im Winter trage ich immer eine warme Mütze.	冬天我总是戴一顶暖和的帽子。
+nachbar	A2	n	Nachbar	der	Nachbarn	邻居					Unser Nachbar kommt aus Shanghai.	我们的邻居来自上海。
+nachricht	A2	n	Nachricht	die	Nachrichten	消息；新闻					Ich habe dir eine Nachricht geschickt.	我给你发了一条消息。
+naehe	A2	n	Nähe	die		附近；近处					Gibt es hier in der Nähe eine Apotheke?	这附近有药店吗？
+nass	A2	adj	nass			湿的					Meine Schuhe sind vom Regen ganz nass.	我的鞋被雨淋得全湿了。
+natur	A2	n	Natur	die		大自然；自然					Am Wochenende sind wir gern in der Natur.	周末我们喜欢去大自然中。
+natuerlich	A2	adj	natürlich			当然；自然的					Natürlich helfe ich dir beim Umzug.	我当然会帮你搬家。
+neben	A2	other	neben			在……旁边					Die Bank ist direkt neben dem Supermarkt.	银行就在超市旁边。
+nebenan	A2	adv	nebenan			在隔壁					Die Familie Wang wohnt nebenan.	王家住在隔壁。
+neblig	A2	adj	neblig			有雾的					Heute Morgen war es sehr neblig.	今天早上雾很大。
+nennen	A2	v	nennen			称呼；叫作；说出	nennt	nannte	genannt	haben	Meine Freunde nennen mich einfach Max.	我的朋友们就叫我马克斯。
+nervoes	A2	adj	nervös			紧张的；神经质的					Vor der Prüfung ist Wang immer nervös.	考试前王总是很紧张。
+nett	A2	adj	nett			友好的；和蔼的					Die neue Kollegin ist sehr nett.	新同事人很好。
+niemand	A2	other	niemand			没有人					Am Abend war niemand mehr im Büro.	晚上办公室里已经没人了。
+nirgends	A2	adv	nirgends			哪儿都不；无处					Ich kann meinen Schlüssel nirgends finden.	我哪儿都找不到我的钥匙。
+note	A2	n	Note	die	Noten	分数；成绩；音符					Mei hat in Mathe eine gute Note bekommen.	梅数学得了个好分数。
+notieren	A2	v	notieren			记下；记录	notiert	notierte	notiert	haben	Ich notiere mir deine Telefonnummer.	我记下你的电话号码。
+notiz	A2	n	Notiz	die	Notizen	笔记；便条					Ich habe eine Notiz auf den Tisch gelegt.	我在桌上放了一张便条。
+notwendig	A2	adj	notwendig			必要的；必需的					Für das Visum ist ein Pass notwendig.	办签证需要护照。
+nudel	A2	n	Nudel	die	Nudeln	面条					Heute koche ich Nudeln mit Tomatensoße.	今天我做番茄酱面条。
+nuetzlich	A2	adj	nützlich			有用的					Diese App ist beim Deutschlernen sehr nützlich.	这个应用对学德语很有用。
+offen	A2	adj	offen			开着的；开放的；坦率的					Das Fenster ist noch offen.	窗户还开着。
+ohr	A2	n	Ohr	das	Ohren	耳朵					Mir tun die Ohren weh.	我耳朵疼。
+online	A2	adj	online			在线的；网上					Ich kaufe meine Bücher meistens online.	我的书大多在网上买。
+orange	A2	n	Orange	die	Orangen	橙子					Zum Frühstück esse ich gern eine Orange.	早餐我喜欢吃一个橙子。
+organisieren	A2	v	organisieren			组织；筹办	organisiert	organisierte	organisiert	haben	Wir organisieren eine Party für Li.	我们为李筹办一个聚会。
+paar	A2	n	Paar	das	Paare	一对；一双；伴侣					Ich brauche ein neues Paar Schuhe.	我需要一双新鞋。
+ein-paar	A2	other	ein paar			几个；一些					Ich bleibe noch ein paar Tage in Berlin.	我还要在柏林待几天。
+packen	A2	v	packen			打包；装	packt	packte	gepackt	haben	Hast du deinen Koffer schon gepackt?	你已经收拾好箱子了吗？
+paket	A2	n	Paket	das	Pakete	包裹；一包					Heute ist ein Paket aus Peking gekommen.	今天来了一个北京寄来的包裹。
+parfuem	A2	n	Parfüm	das	Parfüms	香水					Das Parfüm riecht sehr gut.	这款香水很好闻。
+park	A2	n	Park	der	Parks	公园					Wir gehen am Nachmittag in den Park.	下午我们去公园。
+parken	A2	v	parken			停车	parkt	parkte	geparkt	haben	Hier darf man nicht parken.	这里不许停车。
+passen	A2	v	passen			合适；合身；适合	passt	passte	gepasst	haben	Die Hose passt mir leider nicht.	可惜这条裤子我穿不合身。
+passieren	A2	v	passieren			发生	passiert	passierte	passiert	sein	Was ist denn hier passiert?	这里发生什么事了？
+passwort	A2	n	Passwort	das	Passwörter	密码					Ich habe mein Passwort vergessen.	我忘了我的密码。
+person	A2	n	Person	die	Personen	人；人员					Der Tisch ist für vier Personen.	这张桌子供四人用。
+pferd	A2	n	Pferd	das	Pferde	马					Das Kind möchte auf dem Pferd reiten.	孩子想骑马。
+pflanze	A2	n	Pflanze	die	Pflanzen	植物					Wir haben viele Pflanzen auf dem Balkon.	我们阳台上有很多植物。
+pizza	A2	n	Pizza	die	Pizzas	比萨饼					Wollen wir heute Abend Pizza bestellen?	我们今晚点比萨好吗？
+plakat	A2	n	Plakat	das	Plakate	海报；招贴					An der Wand hängt ein großes Plakat.	墙上挂着一张大海报。
+planen	A2	v	planen			计划；规划	plant	plante	geplant	haben	Wir planen eine Reise nach China.	我们计划去中国旅行。
+ploetzlich	A2	adj	plötzlich			突然（的）					Plötzlich hat es angefangen zu regnen.	突然开始下雨了。
+portion	A2	n	Portion	die	Portionen	（一）份					Eine Portion Reis, bitte.	请来一份米饭。
+poster	A2	n	Poster	das	Poster	海报；招贴画					In meinem Zimmer hängt ein Poster von Peking.	我房间里挂着一张北京的海报。
+postkarte	A2	n	Postkarte	die	Postkarten	明信片					Ich schreibe meiner Oma eine Postkarte.	我给奶奶写一张明信片。
+praktisch	A2	adj	praktisch			实用的；方便的					Der kleine Rucksack ist sehr praktisch.	这个小背包很实用。
+preiswert	A2	adj	preiswert			价格公道的；便宜的					Das Restaurant ist gut und preiswert.	这家餐馆又好又实惠。
+privat	A2	adj	privat			私人的					Das ist eine private Frage.	这是个私人问题。
+pro	A2	other	pro			每；每个					Das Zimmer kostet 50 Euro pro Nacht.	房间每晚50欧元。
+probieren	A2	v	probieren			尝试；品尝	probiert	probierte	probiert	haben	Möchtest du den Kuchen probieren?	你想尝尝这蛋糕吗？
+produkt	A2	n	Produkt	das	Produkte	产品					Dieses Produkt kommt aus Deutschland.	这个产品来自德国。
+programm	A2	n	Programm	das	Programme	节目；计划；程序					Was gibt es heute im Programm?	今天有什么节目？
+projekt	A2	n	Projekt	das	Projekte	项目；计划					Wir arbeiten zusammen an einem Projekt.	我们一起做一个项目。
+pruefen	A2	v	prüfen			检查；考核	prüft	prüfte	geprüft	haben	Bitte prüfen Sie die Rechnung noch einmal.	请再检查一遍账单。
+pullover	A2	n	Pullover	der	Pullover	套头毛衣					Der blaue Pullover ist sehr warm.	这件蓝色毛衣很暖和。
+putzen	A2	v	putzen			打扫；擦；刷（牙）	putzt	putzte	geputzt	haben	Am Samstag putzen wir die Wohnung.	星期六我们打扫房子。
+qualitaet	A2	n	Qualität	die	Qualitäten	质量；品质					Die Qualität der Schuhe ist sehr gut.	这双鞋质量很好。
+quiz	A2	n	Quiz	das		问答游戏；智力竞赛					Im Unterricht machen wir ein Quiz.	课上我们做一个问答游戏。
+radio	A2	n	Radio	das	Radios	收音机；广播					Im Auto hören wir oft Radio.	在车里我们经常听广播。
+raten	A2	v	raten			猜；建议	rät	riet	geraten	haben	Rate mal, wen ich heute getroffen habe!	猜猜我今天碰到谁了！
+rathaus	A2	n	Rathaus	das	Rathäuser	市政厅					Das Rathaus ist am Marktplatz.	市政厅在集市广场上。
+raetsel	A2	n	Rätsel	das	Rätsel	谜语；谜					Die Kinder lösen gern Rätsel.	孩子们喜欢猜谜。
+rechnen	A2	v	rechnen			计算；（mit）估计到	rechnet	rechnete	gerechnet	haben	Mein Sohn kann schon gut rechnen.	我儿子已经很会算数了。
+recht-haben	A2	v	recht haben			（某人）说得对					Du hast recht, es ist schon spät.	你说得对，已经很晚了。
+reden	A2	v	reden			说话；谈论	redet	redete	geredet	haben	Wir müssen mal über das Problem reden.	我们得谈谈这个问题。
+reich	A2	adj	reich			富有的；丰富的					Sein Onkel ist sehr reich.	他叔叔很有钱。
+reifen	A2	n	Reifen	der	Reifen	轮胎					Mein Fahrrad hat einen kaputten Reifen.	我的自行车有个轮胎坏了。
+reihe	A2	n	Reihe	die	Reihen	排；行；轮到					Wir sitzen in der dritten Reihe.	我们坐在第三排。
+reinigung	A2	n	Reinigung	die	Reinigungen	干洗店；清洁					Ich bringe den Mantel in die Reinigung.	我把大衣送去干洗店。
+reiten	A2	v	reiten			骑（马）	reitet	ritt	geritten	sein	Mei ist gestern zum ersten Mal geritten.	梅昨天第一次骑马。
+renovieren	A2	v	renovieren			翻修；装修	renoviert	renovierte	renoviert	haben	Wir renovieren gerade unsere Küche.	我们正在装修厨房。
+rentner	A2	n	Rentner	der	Rentner	退休者；领养老金者					Mein Großvater ist seit zwei Jahren Rentner.	我爷爷退休两年了。
+reservieren	A2	v	reservieren			预订	reserviert	reservierte	reserviert	haben	Ich möchte einen Tisch für zwei Personen reservieren.	我想预订一张两人桌。
+rest	A2	n	Rest	der	Reste	剩余；其余					Den Rest essen wir morgen.	剩下的我们明天吃。
+rezept	A2	n	Rezept	das	Rezepte	食谱；处方					Kannst du mir das Rezept für den Kuchen geben?	你能把这个蛋糕的食谱给我吗？
+rind	A2	n	Rind	das	Rinder	牛；牛肉					Ich esse lieber Rind als Schwein.	比起猪肉我更喜欢吃牛肉。
+ring	A2	n	Ring	der	Ringe	戒指；环					Sie trägt einen schönen Ring.	她戴着一枚漂亮的戒指。
+rock	A2	n	Rock	der	Röcke	裙子					Der rote Rock steht dir gut.	这条红裙子很适合你。
+romantisch	A2	adj	romantisch			浪漫的					Das war ein romantischer Abend.	那是个浪漫的夜晚。
+rose	A2	n	Rose	die	Rosen	玫瑰					Er schenkt ihr rote Rosen.	他送她红玫瑰。
+ruecken	A2	n	Rücken	der	Rücken	背；后背					Nach der Arbeit tut mir der Rücken weh.	下班后我背疼。
+rucksack	A2	n	Rucksack	der	Rucksäcke	背包；双肩包					Li packt ihre Bücher in den Rucksack.	李把书装进背包里。
+rufen	A2	v	rufen			呼喊；叫	ruft	rief	gerufen	haben	Bitte ruf schnell einen Arzt!	请赶快叫医生！
+ruhe	A2	n	Ruhe	die		安静；平静					Ich brauche jetzt etwas Ruhe.	我现在需要安静一下。
+rund	A2	adj	rund			圆的；大约					Wir haben einen runden Tisch in der Küche.	我们厨房里有一张圆桌。
+rundgang	A2	n	Rundgang	der	Rundgänge	巡游；参观一圈					Wir machen einen Rundgang durch die Altstadt.	我们在老城转一圈。
+sache	A2	n	Sache	die	Sachen	东西；事情					Ich muss noch meine Sachen packen.	我还得收拾我的东西。
+sammeln	A2	v	sammeln			收集；搜集	sammelt	sammelte	gesammelt	haben	Mein Sohn sammelt Briefmarken.	我儿子集邮。
+sauber	A2	adj	sauber			干净的					Das Hotelzimmer war sehr sauber.	酒店房间非常干净。
+sauer	A2	adj	sauer			酸的；（口）生气的					Die Zitrone ist sehr sauer.	柠檬很酸。
+schade	A2	adj	schade			可惜的；遗憾的					Schade, dass du nicht kommen kannst.	可惜你来不了。
+schaedlich	A2	adj	schädlich			有害的					Rauchen ist schädlich für die Gesundheit.	吸烟有害健康。
+schaffen	A2	v	schaffen			完成；做到	schafft	schuf	geschaffen	haben	Wir haben die Arbeit heute geschafft.	我们今天把工作完成了。
+schenken	A2	v	schenken			赠送	schenkt	schenkte	geschenkt	haben	Was schenkst du deiner Mutter zum Geburtstag?	你送妈妈什么生日礼物？
+schere	A2	n	Schere	die	Scheren	剪刀					Hast du eine Schere für mich?	你有剪刀借我吗？
+schiff	A2	n	Schiff	das	Schiffe	船					Wir fahren mit dem Schiff über den See.	我们坐船过湖。
+schimpfen	A2	v	schimpfen			骂；抱怨	schimpft	schimpfte	geschimpft	haben	Der Vater schimpft mit den Kindern.	父亲在训孩子们。
+schirm	A2	n	Schirm	der	Schirme	伞					Nimm einen Schirm mit, es regnet!	带把伞，下雨了！
+schlafzimmer	A2	n	Schlafzimmer	das	Schlafzimmer	卧室					Unser Schlafzimmer ist ziemlich klein.	我们的卧室相当小。
+schlimm	A2	adj	schlimm			糟糕的；严重的					Das ist nicht so schlimm.	这没那么糟。
+schloss	A2	n	Schloss	das	Schlösser	城堡；锁					Am Wochenende besuchen wir ein altes Schloss.	周末我们参观一座古堡。
+schmerz	A2	n	Schmerz	der	Schmerzen	疼痛；痛苦					Ich habe starke Schmerzen im Bein.	我腿疼得厉害。
+schmutzig	A2	adj	schmutzig			脏的					Meine Hose ist ganz schmutzig.	我的裤子脏极了。
+schnee	A2	n	Schnee	der		雪					Im Januar liegt hier viel Schnee.	一月这里积雪很多。
+schneiden	A2	v	schneiden			切；剪；（sich ~）割伤自己	schneidet	schnitt	geschnitten	haben	Ich habe mich in den Finger geschnitten.	我割伤了手指。
+schneien	A2	v	schneien			下雪	schneit	schneite	geschneit	haben	Heute schneit es zum ersten Mal.	今天第一次下雪。
+schokolade	A2	n	Schokolade	die		巧克力					Mei isst sehr gern Schokolade.	梅很喜欢吃巧克力。
+schrecklich	A2	adj	schrecklich			可怕的；糟透的					Das Wetter war schrecklich.	天气糟透了。
+schriftlich	A2	adj	schriftlich			书面的					Die schriftliche Prüfung dauert zwei Stunden.	笔试持续两个小时。
+schwach	A2	adj	schwach			弱的；虚弱的					Nach der Krankheit fühle ich mich noch schwach.	病后我还觉得虚弱。
+schwanger	A2	adj	schwanger			怀孕的					Meine Schwester ist schwanger.	我姐姐怀孕了。
+schwein	A2	n	Schwein	das	Schweine	猪					Auf dem Bauernhof gibt es viele Schweine.	农场里有很多猪。
+schwierig	A2	adj	schwierig			困难的					Die Grammatik ist manchmal schwierig.	语法有时很难。
+seife	A2	n	Seife	die	Seifen	肥皂					Wasch dir die Hände mit Seife!	用肥皂洗手！
+seite	A2	n	Seite	die	Seiten	页；边；方面					Öffnet bitte das Buch auf Seite 20.	请把书翻到第20页。
+selbst	A2	other	selbst			自己；亲自；甚至					Das Brot habe ich selbst gebacken.	这面包是我自己烤的。
+sendung	A2	n	Sendung	die	Sendungen	节目；邮件					Die Sendung beginnt um acht Uhr.	节目八点开始。
+service	A2	n	Service	der		服务					Der Service in diesem Hotel ist sehr gut.	这家酒店的服务很好。
+setzen	A2	v	setzen			放置；（sich ~）坐下	setzt	setzte	gesetzt	haben	Bitte setzen Sie sich!	请坐！
+sicher	A2	adj	sicher			安全的；肯定的					Bist du sicher, dass der Zug um neun fährt?	你确定火车九点开吗？
+singen	A2	v	singen			唱歌	singt	sang	gesungen	haben	Wang singt gern chinesische Lieder.	王喜欢唱中文歌。
+situation	A2	n	Situation	die	Situationen	情况；处境					Das ist eine schwierige Situation.	这是个困难的处境。
+ski	A2	n	Ski	der	Skier	滑雪板					Im Winter fahren wir Ski in den Alpen.	冬天我们去阿尔卑斯山滑雪。
+sogar	A2	adv	sogar			甚至					Er spricht sogar ein bisschen Chinesisch.	他甚至会说一点中文。
+sonnig	A2	adj	sonnig			阳光充足的；晴朗的					Morgen wird es sonnig und warm.	明天会晴朗温暖。
+sonst	A2	adv	sonst			否则；此外；平时					Beeil dich, sonst kommen wir zu spät!	快点，不然我们要迟到了！
+spannend	A2	adj	spannend			紧张刺激的；引人入胜的					Der Film war sehr spannend.	这部电影很扣人心弦。
+sparen	A2	v	sparen			节省；存钱	spart	sparte	gespart	haben	Ich spare für eine Reise nach Shanghai.	我存钱去上海旅行。
+spass	A2	n	Spaß	der		乐趣；玩笑					Das Spiel macht viel Spaß.	这个游戏很好玩。
+spazieren-gehen	A2	v	spazieren gehen			散步					Nach dem Essen gehen wir spazieren.	饭后我们去散步。
+spaziergang	A2	n	Spaziergang	der	Spaziergänge	散步					Wir machen einen Spaziergang am Fluss.	我们沿着河边散步。
+speichern	A2	v	speichern			保存；存储	speichert	speicherte	gespeichert	haben	Vergiss nicht, die Datei zu speichern.	别忘了保存文件。
+spiel	A2	n	Spiel	das	Spiele	游戏；比赛					Das Spiel beginnt um 15 Uhr.	比赛下午三点开始。
+sportlich	A2	adj	sportlich			爱运动的；体育的					Mein Freund ist sehr sportlich.	我男朋友很爱运动。
+sportplatz	A2	n	Sportplatz	der	Sportplätze	运动场					Die Kinder spielen auf dem Sportplatz Fußball.	孩子们在运动场上踢足球。
+sprechstunde	A2	n	Sprechstunde	die	Sprechstunden	接待时间；门诊时间					Die Sprechstunde beginnt um neun Uhr.	门诊时间九点开始。
+stadtplan	A2	n	Stadtplan	der	Stadtpläne	城市地图					Ich brauche einen Stadtplan von München.	我需要一张慕尼黑地图。
+star	A2	n	Star	der	Stars	明星					Der Sänger ist ein großer Star in China.	这位歌手在中国是大明星。
+stark	A2	adj	stark			强壮的；强烈的					Der Kaffee ist mir zu stark.	这咖啡对我来说太浓了。
+stattfinden	A2	v	statt|finden			举行；进行	findet statt	fand statt	stattgefunden	haben	Das Konzert findet im Park statt.	音乐会在公园举行。
+sterben	A2	v	sterben			死亡；去世	stirbt	starb	gestorben	sein	Sein Großvater ist letztes Jahr gestorben.	他祖父去年去世了。
+stiefel	A2	n	Stiefel	der	Stiefel	靴子					Im Winter trage ich warme Stiefel.	冬天我穿暖和的靴子。
+stift	A2	n	Stift	der	Stifte	笔					Kannst du mir einen Stift leihen?	你能借我一支笔吗？
+stipendium	A2	n	Stipendium	das	Stipendien	奖学金					Mei hat ein Stipendium für Deutschland bekommen.	梅获得了去德国的奖学金。
+stockwerk	A2	n	Stockwerk	das	Stockwerke	楼层					Wir wohnen im dritten Stockwerk.	我们住在四楼。
+stoeren	A2	v	stören			打扰；妨碍	stört	störte	gestört	haben	Entschuldigung, störe ich?	对不起，我打扰你了吗？
+strand	A2	n	Strand	der	Strände	海滩					Im Sommer liegen wir oft am Strand.	夏天我们常常躺在海滩上。
+streiten	A2	v	streiten			（sich ~）争吵；吵架	streitet	stritt	gestritten	haben	Die Kinder streiten sich oft um das Spielzeug.	孩子们经常为玩具吵架。
+streng	A2	adj	streng			严格的					Unser Lehrer ist sehr streng.	我们的老师非常严格。
+stress	A2	n	Stress	der		压力；紧张					Vor der Prüfung hat Li viel Stress.	考试前小李压力很大。
+stressig	A2	adj	stressig			紧张的；有压力的					Die Woche war sehr stressig.	这周非常紧张忙碌。
+stueck	A2	n	Stück	das	Stücke	块；片；件；（戏剧）剧目					Möchtest du noch ein Stück Kuchen?	你还想再来一块蛋糕吗？
+super	A2	adj	super			极好的；超棒的					Das Konzert war super!	音乐会棒极了！
+supermarkt	A2	n	Supermarkt	der	Supermärkte	超市					Der Supermarkt ist bis 22 Uhr geöffnet.	超市营业到晚上十点。
+suppe	A2	n	Suppe	die	Suppen	汤					Die Suppe ist noch zu heiß.	汤还太烫了。
+surfen	A2	v	surfen			冲浪；（上网）浏览	surft	surfte	gesurft	haben	Mei surft abends gern im Internet.	小美晚上喜欢上网。
+suess	A2	adj	süß			甜的；可爱的					Der Kuchen ist mir zu süß.	这个蛋糕对我来说太甜了。
+suessigkeiten	A2	n	Süßigkeiten	die		甜食；糖果					Kinder essen gern Süßigkeiten.	孩子们喜欢吃甜食。
+sympathisch	A2	adj	sympathisch			讨人喜欢的；令人有好感的					Deine neue Kollegin ist sehr sympathisch.	你的新同事很讨人喜欢。
+tablet	A2	n	Tablet	das	Tablets	平板电脑					Wang liest die Zeitung auf dem Tablet.	老王在平板电脑上看报纸。
+tablette	A2	n	Tablette	die	Tabletten	药片					Nehmen Sie eine Tablette nach dem Essen.	请饭后服用一片药。
+tafel	A2	n	Tafel	die	Tafeln	黑板；告示牌；（一）板（巧克力）					Der Lehrer schreibt das Wort an die Tafel.	老师把这个词写在黑板上。
+taschengeld	A2	n	Taschengeld	das		零花钱					Mein Sohn bekommt zehn Euro Taschengeld pro Woche.	我儿子每周有十欧元零花钱。
+tasse	A2	n	Tasse	die	Tassen	杯子					Ich trinke jeden Morgen eine Tasse Tee.	我每天早上喝一杯茶。
+tauschen	A2	v	tauschen			交换	tauscht	tauschte	getauscht	haben	Wollen wir die Plätze tauschen?	我们换一下座位好吗？
+austauschen	A2	v	aus|tauschen			交换；更换	tauscht aus	tauschte aus	ausgetauscht	haben	Wir tauschen unsere Telefonnummern aus.	我们交换电话号码。
+team	A2	n	Team	das	Teams	团队；小组					Unser Team arbeitet gut zusammen.	我们的团队合作得很好。
+teilen	A2	v	teilen			分；分享；分摊	teilt	teilte	geteilt	haben	Wir teilen uns die Pizza.	我们分着吃这个比萨。
+teilnehmen	A2	v	teil|nehmen			参加	nimmt teil	nahm teil	teilgenommen	haben	Li nimmt an einem Deutschkurs teil.	小李参加了一个德语班。
+teller	A2	n	Teller	der	Teller	盘子					Stell bitte die Teller auf den Tisch.	请把盘子放到桌上。
+tennis	A2	n	Tennis	das		网球					Am Samstag spiele ich Tennis.	周六我打网球。
+theater	A2	n	Theater	das	Theater	剧院；戏剧					Heute Abend gehen wir ins Theater.	今晚我们去剧院。
+tief	A2	adj	tief			深的					Der See ist hier sehr tief.	湖在这里很深。
+tier	A2	n	Tier	das	Tiere	动物					Hast du ein Tier zu Hause?	你家里养动物吗？
+tipp	A2	n	Tipp	der	Tipps	建议；提示；小窍门					Danke für den Tipp!	谢谢你的建议！
+titel	A2	n	Titel	der	Titel	标题；书名；头衔					Wie ist der Titel von dem Buch?	这本书叫什么名字？
+toll	A2	adj	toll			很棒的；了不起的					Wir hatten einen tollen Urlaub.	我们度过了一个很棒的假期。
+topf	A2	n	Topf	der	Töpfe	锅					Die Kartoffeln kochen im Topf.	土豆在锅里煮着。
+torte	A2	n	Torte	die	Torten	奶油蛋糕；大蛋糕					Zum Geburtstag backe ich eine Torte.	生日时我会烤一个蛋糕。
+total	A2	adj	total			（口）完全的；非常					Der Film war total langweilig.	这部电影无聊透了。
+tour	A2	n	Tour	die	Touren	旅行；游览；路线					Wir machen eine Tour durch die Altstadt.	我们游览老城区。
+tourist	A2	n	Tourist	der	Touristen	游客					Im Sommer kommen viele Touristen nach Heidelberg.	夏天有很多游客来海德堡。
+tragen	A2	v	tragen			拿；搬；穿（衣服）；戴	trägt	trug	getragen	haben	Kannst du die Tasche tragen?	你能拎一下这个包吗？
+trainieren	A2	v	trainieren			训练；锻炼	trainiert	trainierte	trainiert	haben	Er trainiert dreimal pro Woche.	他每周训练三次。
+training	A2	n	Training	das	Trainings	训练					Das Training beginnt um sechs Uhr.	训练六点开始。
+traum	A2	n	Traum	der	Träume	梦；梦想					Ein Haus am Meer ist mein Traum.	海边的房子是我的梦想。
+traeumen	A2	v	träumen			做梦；梦想	träumt	träumte	geträumt	haben	Ich habe heute Nacht von dir geträumt.	我昨晚梦见你了。
+traurig	A2	adj	traurig			悲伤的；难过的					Warum bist du so traurig?	你为什么这么难过？
+trocken	A2	adj	trocken			干的；干燥的					Die Wäsche ist schon trocken.	衣服已经干了。
+tschues	A2	other	tschüs			（口）再见					Tschüs, bis morgen!	再见，明天见！
+t-shirt	A2	n	T-Shirt	das	T-Shirts	T恤衫					Im Sommer trage ich meistens ein T-Shirt.	夏天我大多穿T恤。
+typisch	A2	adj	typisch			典型的					Das ist ein typisch deutsches Essen.	这是一道典型的德国菜。
+ueben	A2	v	üben			练习	übt	übte	geübt	haben	Mei übt jeden Tag Deutsch.	小美每天练习德语。
+ueberall	A2	adv	überall			到处					Ich habe meinen Schlüssel überall gesucht.	我到处找我的钥匙。
+uebermorgen	A2	adv	übermorgen			后天					Übermorgen fliegen wir nach Shanghai.	后天我们飞去上海。
+uebersetzen	A2	v	übersetzen			翻译	übersetzt	übersetzte	übersetzt	haben	Kannst du mir den Brief übersetzen?	你能帮我翻译这封信吗？
+uebersetzung	A2	n	Übersetzung	die	Übersetzungen	翻译；译文					Die Übersetzung ist nicht ganz richtig.	这个译文不完全正确。
+umsteigen	A2	v	um|steigen			换乘；换车	steigt um	stieg um	umgestiegen	sein	In Frankfurt müssen wir umsteigen.	我们必须在法兰克福换车。
+umzug	A2	n	Umzug	der	Umzüge	搬家					Kannst du mir beim Umzug helfen?	你能帮我搬家吗？
+unbedingt	A2	adv	unbedingt			一定；无论如何					Du musst den Film unbedingt sehen!	你一定要看这部电影！
+unfall	A2	n	Unfall	der	Unfälle	事故					Auf der Autobahn gab es einen Unfall.	高速公路上发生了一起事故。
+universitaet	A2	n	Universität	die	Universitäten	大学					Wang studiert an der Universität Bonn.	小王在波恩大学读书。
+unterhalten	A2	v	unterhalten			（sich ~）聊天；交谈	unterhält	unterhielt	unterhalten	haben	Wir haben uns lange unterhalten.	我们聊了很久。
+unterkunft	A2	n	Unterkunft	die	Unterkünfte	住处；住宿					Wir haben eine günstige Unterkunft gefunden.	我们找到了一个便宜的住处。
+unternehmen	A2	v	unternehmen			做（某事）；进行（活动）	unternimmt	unternahm	unternommen	haben	Was unternehmen wir am Wochenende?	我们周末干点什么？
+unterschied	A2	n	Unterschied	der	Unterschiede	区别；差别					Der Unterschied ist sehr klein.	区别非常小。
+untersuchen	A2	v	untersuchen			检查；调查	untersucht	untersuchte	untersucht	haben	Der Arzt untersucht das Kind.	医生给孩子做检查。
+unterwegs-sein	A2	v	unterwegs sein			在路上；外出					Ich bin gerade unterwegs.	我现在在路上。
+verabredet-sein	A2	v	verabredet sein			有约					Heute Abend bin ich mit Li verabredet.	今晚我和小李有约。
+veranstaltung	A2	n	Veranstaltung	die	Veranstaltungen	活动；举办的项目					Die Veranstaltung findet im Rathaus statt.	活动在市政厅举行。
+verbieten	A2	v	verbieten			禁止	verbietet	verbot	verboten	haben	Der Arzt hat mir das Rauchen verboten.	医生禁止我吸烟。
+verboten-sein	A2	v	verboten sein			被禁止					Hier ist Parken verboten.	这里禁止停车。
+vereinbaren	A2	v	vereinbaren			约定；商定	vereinbart	vereinbarte	vereinbart	haben	Ich möchte einen Termin vereinbaren.	我想约个时间。
+vergessen	A2	v	vergessen			忘记	vergisst	vergaß	vergessen	haben	Ich habe meinen Schirm vergessen.	我忘带雨伞了。
+vergleichen	A2	v	vergleichen			比较	vergleicht	verglich	verglichen	haben	Wir vergleichen die Preise im Internet.	我们在网上比较价格。
+verkehr	A2	n	Verkehr	der		交通					Am Morgen ist viel Verkehr in der Stadt.	早上城里交通繁忙。
+verkehrsmittel	A2	n	Verkehrsmittel	das	Verkehrsmittel	交通工具					Der Bus ist ein öffentliches Verkehrsmittel.	公共汽车是一种公共交通工具。
+verletzen	A2	v	verletzen			（sich ~）受伤；使受伤	verletzt	verletzte	verletzt	haben	Er hat sich beim Fußball verletzt.	他踢足球时受伤了。
+verlieben	A2	v	verlieben			（sich ~ in）爱上	verliebt	verliebte	verliebt	haben	Mei hat sich in einen Deutschen verliebt.	小美爱上了一个德国人。
+verlieren	A2	v	verlieren			丢失；输掉	verliert	verlor	verloren	haben	Ich habe mein Handy verloren.	我把手机弄丢了。
+verpassen	A2	v	verpassen			错过	verpasst	verpasste	verpasst	haben	Beeil dich, sonst verpassen wir den Zug!	快点，否则我们会错过火车！
+verreisen	A2	v	verreisen			出门旅行	verreist	verreiste	verreist	sein	Im August verreisen wir für drei Wochen.	八月我们出去旅行三周。
+verschieben	A2	v	verschieben			推迟；挪动	verschiebt	verschob	verschoben	haben	Wir müssen den Termin verschieben.	我们得把约会推迟。
+verschieden	A2	adj	verschieden			不同的；各种的					Die Geschwister sind sehr verschieden.	这几个兄弟姐妹很不一样。
+verspaetung	A2	n	Verspätung	die	Verspätungen	晚点；迟到					Der Bus hat zehn Minuten Verspätung.	公共汽车晚点十分钟。
+versuchen	A2	v	versuchen			尝试；试图	versucht	versuchte	versucht	haben	Ich versuche, pünktlich zu sein.	我尽量准时。
+vertrag	A2	n	Vertrag	der	Verträge	合同					Hast du den Vertrag schon unterschrieben?	你已经签合同了吗？
+vogel	A2	n	Vogel	der	Vögel	鸟					Im Garten singt ein Vogel.	花园里有一只鸟在唱歌。
+voll	A2	adj	voll			满的					Der Zug ist heute sehr voll.	今天火车很满。
+volleyball	A2	n	Volleyball	der	Volleybälle	排球					Am Strand spielen wir Volleyball.	我们在海滩上打排球。
+vorbei	A2	adv	vorbei			过去；经过；结束					Der Sommer ist leider vorbei.	可惜夏天已经过去了。
+vorbereiten	A2	v	vor|bereiten			准备	bereitet vor	bereitete vor	vorbereitet	haben	Ich bereite das Abendessen vor.	我在准备晚饭。
+vorgestern	A2	adv	vorgestern			前天					Vorgestern war ich beim Arzt.	前天我去看医生了。
+vorher	A2	adv	vorher			之前；事先					Ruf mich bitte vorher an.	请事先给我打电话。
+vorn	A2	adv	vorn			在前面					Wir sitzen im Kino ganz vorn.	我们在电影院坐在最前面。
+vorschlag	A2	n	Vorschlag	der	Vorschläge	建议					Hast du einen besseren Vorschlag?	你有更好的建议吗？
+vorsichtig	A2	adj	vorsichtig			小心的；谨慎的					Fahr bitte vorsichtig!	请小心驾驶！
+vorwaerts	A2	adv	vorwärts			向前					Das Auto fährt langsam vorwärts.	汽车慢慢向前开。
+wach	A2	adj	wach			醒着的；清醒的					Bist du schon wach?	你已经醒了吗？
+wagen	A2	n	Wagen	der	Wagen	汽车；车厢					Unser Wagen steht vor dem Haus.	我们的车停在房子前面。
+waehlen	A2	v	wählen			选择；选举；拨（号）	wählt	wählte	gewählt	haben	Welches Essen hast du gewählt?	你选了什么菜？
+wahr	A2	adj	wahr			真的；真实的					Ist das wirklich wahr?	这真的是真的吗？
+wahrscheinlich	A2	adv	wahrscheinlich			可能；大概					Morgen regnet es wahrscheinlich.	明天大概会下雨。
+wald	A2	n	Wald	der	Wälder	森林					Am Sonntag gehen wir im Wald spazieren.	周日我们去森林里散步。
+warm	A2	adj	warm			温暖的；热的					Heute ist es sehr warm.	今天很暖和。
+waesche	A2	n	Wäsche	die	Wäschen	（要洗的）衣物；洗衣					Ich muss heute noch Wäsche waschen.	我今天还得洗衣服。
+webseite	A2	n	Webseite	die	Webseiten	网页；网站					Die Informationen stehen auf unserer Webseite.	信息在我们的网站上。
+wechseln	A2	v	wechseln			换；兑换	wechselt	wechselte	gewechselt	haben	Wo kann ich Geld wechseln?	我在哪里可以换钱？
+wecken	A2	v	wecken			叫醒	weckt	weckte	geweckt	haben	Kannst du mich um sieben Uhr wecken?	你能七点叫醒我吗？
+weg	A2	adv	weg			离开；不见了					Mein Fahrrad ist weg!	我的自行车不见了！
+wegbringen	A2	v	weg|bringen			带走；送走	bringt weg	brachte weg	weggebracht	haben	Ich bringe den Müll weg.	我去把垃圾拿出去。
+wegfahren	A2	v	weg|fahren			（乘车）离开	fährt weg	fuhr weg	weggefahren	sein	Wir fahren am Wochenende weg.	我们周末出去。
+weggehen	A2	v	weg|gehen			走开；离开	geht weg	ging weg	weggegangen	sein	Geh nicht weg, ich komme gleich!	别走，我马上来！
+weglaufen	A2	v	weg|laufen			跑开；逃走	läuft weg	lief weg	weggelaufen	sein	Der Hund ist weggelaufen.	狗跑掉了。
+wegmachen	A2	v	weg|machen			去掉；弄掉	macht weg	machte weg	weggemacht	haben	Kannst du den Fleck wegmachen?	你能把这个污渍弄掉吗？
+wegnehmen	A2	v	weg|nehmen			拿走	nimmt weg	nahm weg	weggenommen	haben	Wer hat mein Buch weggenommen?	谁拿走了我的书？
+wegwerfen	A2	v	weg|werfen			扔掉	wirft weg	warf weg	weggeworfen	haben	Wirf die alten Zeitungen weg!	把旧报纸扔掉吧！
+weg-n	A2	n	Weg	der	Wege	路；道路；途径					Kennst du den Weg zum Bahnhof?	你认识去火车站的路吗？
+wegen	A2	other	wegen			由于；因为					Wegen des Regens bleiben wir zu Hause.	因为下雨，我们待在家里。
+weich	A2	adj	weich			软的；柔和的					Das Bett ist sehr weich.	这张床很软。
+weil	A2	other	weil			因为					Ich komme nicht, weil ich krank bin.	我不来了，因为我病了。
+weinen	A2	v	weinen			哭	weint	weinte	geweint	haben	Das Baby weint schon seit einer Stunde.	婴儿已经哭了一个小时了。
+weitermachen	A2	v	weiter|machen			继续做	macht weiter	machte weiter	weitergemacht	haben	Mach bitte weiter, das ist gut!	请继续，很好！
+weiterhelfen	A2	v	weiter|helfen			继续帮助；给予帮助	hilft weiter	half weiter	weitergeholfen	haben	Können Sie mir weiterhelfen?	您能帮帮我吗？
+wenigstens	A2	adv	wenigstens			至少					Ruf wenigstens kurz an!	至少打个电话吧！
+wenn	A2	other	wenn			如果；当……时					Wenn es regnet, fahre ich mit dem Bus.	如果下雨，我就坐公交车。
+werkstatt	A2	n	Werkstatt	die	Werkstätten	修理厂；车间					Das Auto muss in die Werkstatt.	这辆车得送去修理厂。
+wettbewerb	A2	n	Wettbewerb	der	Wettbewerbe	比赛；竞赛					Li hat beim Wettbewerb den ersten Preis gewonnen.	小李在比赛中获得了一等奖。
+wieder	A2	adv	wieder			又；再					Wann sehen wir uns wieder?	我们什么时候再见面？
+windig	A2	adj	windig			有风的；风大的					Heute ist es kalt und windig.	今天又冷风又大。
+wirklich	A2	adj	wirklich			真的；确实					Das Essen ist wirklich lecker.	这饭菜真的很好吃。
+witz	A2	n	Witz	der	Witze	笑话					Er erzählt gern Witze.	他喜欢讲笑话。
+witzig	A2	adj	witzig			有趣的；风趣的					Dein Bruder ist sehr witzig.	你哥哥很风趣。
+wohnzimmer	A2	n	Wohnzimmer	das	Wohnzimmer	客厅					Wir sehen im Wohnzimmer fern.	我们在客厅看电视。
+workshop	A2	n	Workshop	der	Workshops	研讨会；工作坊					Am Samstag mache ich einen Workshop für Fotografie.	周六我参加一个摄影工作坊。
+wunsch	A2	n	Wunsch	der	Wünsche	愿望					Hast du einen Wunsch zum Geburtstag?	你生日有什么愿望吗？
+wuenschen	A2	v	wünschen			祝愿；（sich ~）希望得到	wünscht	wünschte	gewünscht	haben	Ich wünsche dir viel Glück!	祝你好运！
+wurst	A2	n	Wurst	die	Würste	香肠					Zum Frühstück esse ich Brot mit Wurst.	早餐我吃面包配香肠。
+zahl	A2	n	Zahl	die	Zahlen	数字					Schreib die Zahl bitte noch einmal.	请把这个数字再写一遍。
+zahn	A2	n	Zahn	der	Zähne	牙齿					Mir tut ein Zahn weh.	我有颗牙疼。
+zeichnen	A2	v	zeichnen			画（线条画）；绘图	zeichnet	zeichnete	gezeichnet	haben	Meine Tochter zeichnet sehr gern.	我女儿非常喜欢画画。
+zeigen	A2	v	zeigen			指出；给……看	zeigt	zeigte	gezeigt	haben	Kannst du mir den Weg zeigen?	你能给我指路吗？
+zeitschrift	A2	n	Zeitschrift	die	Zeitschriften	杂志					Ich lese gern Zeitschriften über Reisen.	我喜欢读旅游杂志。
+zelt	A2	n	Zelt	das	Zelte	帐篷					Im Urlaub schlafen wir im Zelt.	度假时我们睡帐篷。
+zentrum	A2	n	Zentrum	das	Zentren	中心；市中心					Das Hotel liegt im Zentrum.	酒店位于市中心。
+zettel	A2	n	Zettel	der	Zettel	纸条；便条					Ich schreibe die Nummer auf einen Zettel.	我把号码写在一张纸条上。
+zeugnis	A2	n	Zeugnis	das	Zeugnisse	成绩单；证书					Morgen bekommen die Schüler ihre Zeugnisse.	明天学生们拿成绩单。
+ziehen	A2	v	ziehen			拉；拔；搬（家）	zieht	zog	gezogen	haben	Du musst an der Tür ziehen, nicht drücken.	这扇门要拉，不要推。
+ziel	A2	n	Ziel	das	Ziele	目标；目的地					Unser Ziel ist der Bahnhof.	我们的目的地是火车站。
+zitrone	A2	n	Zitrone	die	Zitronen	柠檬					Ich trinke Tee mit Zitrone.	我喝加柠檬的茶。
+zoo	A2	n	Zoo	der	Zoos	动物园					Am Sonntag gehen wir in den Zoo.	周日我们去动物园。
+zucker	A2	n	Zucker	der		糖					Nimmst du Zucker in den Kaffee?	你咖啡里加糖吗？
+zuerst	A2	adv	zuerst			首先；起先					Zuerst lernen wir die neuen Wörter.	我们先学新单词。
+zuhoeren	A2	v	zu|hören			听；倾听	hört zu	hörte zu	zugehört	haben	Bitte hör mir gut zu!	请好好听我说！
+zuletzt	A2	adv	zuletzt			最后；最近一次					Wann warst du zuletzt beim Zahnarzt?	你上次看牙医是什么时候？
+zumachen	A2	v	zu|machen			关上	macht zu	machte zu	zugemacht	haben	Mach bitte das Fenster zu!	请把窗户关上！
