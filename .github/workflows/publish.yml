@@ -1,8 +1,10 @@
 name: Publish word books
 
-# Builds the word books from sources/, synthesizes their pronunciation with Piper (offline neural
-# TTS, German "thorsten" voice, CC0) and commits the versioned files and index.json, which the
-# app downloads from. A book only gets a new version when its word list changed.
+# Builds the word books from sources/ and publishes them in two steps: first the word lists, so
+# they can be downloaded right away, then the pronunciation, synthesized with Piper (offline
+# neural TTS, German "thorsten" voice, CC0). Synthesis is slow; recordings are cached after every
+# run, even an unfinished one, so running the workflow again carries on where it stopped. A book
+# only gets a new version when its word list changed or its recordings became complete.
 on:
   push:
     branches: [main]
@@ -19,6 +21,7 @@ concurrency:
 jobs:
   publish:
     runs-on: ubuntu-latest
+    timeout-minutes: 340
     steps:
       - uses: actions/checkout@v4
 
@@ -41,11 +44,16 @@ jobs:
       - name: Build word books
         run: python tools/build_all.py build .lexicon/de.tsv.gz
 
+      - name: Publish word lists
+        run: |
+          python tools/publish.py build
+          tools/commit.sh "Publish word books"
+
       - name: Restore generated audio
-        uses: actions/cache@v4
+        uses: actions/cache/restore@v4
         with:
           path: .audio-cache
-          key: audio-thorsten-high-${{ hashFiles('sources/**', 'base/**', 'tools/audio_manifest.py', 'tools/gen_audio.py') }}
+          key: audio-thorsten-high-${{ github.run_id }}
           restore-keys: audio-thorsten-high-
 
       - name: Generate pronunciation audio
@@ -53,17 +61,26 @@ jobs:
           command -v ffmpeg || (sudo apt-get update && sudo apt-get install -y ffmpeg)
           python -m pip install piper-tts==1.3.0
           python -m piper.download_voices --data-dir .voices de_DE-thorsten-high
+          # One Piper process per core, each on its own share of the texts; stop in time to save
+          # what was made, so the next run continues from there.
+          shards=$(nproc)
           for manifest in build/*.manifest; do
             id=$(basename "$manifest" .manifest)
-            python tools/gen_audio.py "$manifest" .voices/de_DE-thorsten-high.onnx .audio-cache "build/audio/$id"
+            split -n "l/$shards" -d "$manifest" "build/$id.shard."
+            for shard in build/$id.shard.*; do
+              timeout 270m python tools/gen_audio.py "$shard" .voices/de_DE-thorsten-high.onnx .audio-cache "build/audio/$id" &
+            done
+            wait || true
           done
 
-      - name: Publish
+      - name: Save generated audio
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: .audio-cache
+          key: audio-thorsten-high-${{ github.run_id }}
+
+      - name: Publish pronunciation
         run: |
-          python tools/publish.py build
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
-          git add -A index.json $(python -c "import json; print(' '.join(b['id'] for b in json.load(open('books.json'))))")
-          if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
-          git commit -m "Publish word books"
-          git push
+          python tools/publish.py build --audio
+          tools/commit.sh "Publish word book pronunciation"

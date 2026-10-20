@@ -1,11 +1,13 @@
 """Publishes the built word books: versioned files under <id>/ and the catalog index.json.
 
-Usage: publish.py <build dir>
+Usage: publish.py <build dir> [--audio]
 
-Reads books.json (what to publish) and, per book, <build dir>/<id>.tsv and the recordings in
-<build dir>/audio/<id>/. A book whose word list changed gets the next version number; its files
-are written as <id>/<id>-<version>.tsv and <id>/<id>-<version>-audio-<n>.zip. Unchanged books keep
-their version and files, so the app only offers an update when there is something new. The
+Reads books.json (what to publish) and, per book, <build dir>/<id>.tsv and, with --audio, the
+recordings in <build dir>/audio/<id>/ listed by <build dir>/<id>.manifest. A book whose word list
+changed gets the next version number; its files are written as <id>/<id>-<version>.tsv and
+<id>/<id>-<version>-audio-<n>.zip. Recordings are published only when every text of the book has
+one; a book first published without them gets a new version once they are all there. Unchanged
+books keep their version and files, so the app only offers an update when there is something new. The
 previous version's files are kept one round longer, for CDN mirrors still serving the old index.
 """
 import hashlib
@@ -67,8 +69,19 @@ def write_zips(source_dir: str, prefix: str) -> list:
     return paths
 
 
+def audio_complete(build: str, book_id: str) -> bool:
+    audio_dir = os.path.join(build, "audio", book_id)
+    have = set(os.listdir(audio_dir)) if os.path.isdir(audio_dir) else set()
+    keys = [line.split("\t", 1)[0] for line in open(os.path.join(build, f"{book_id}.manifest"), encoding="utf-8") if line.strip()]
+    missing = [k for k in keys if f"{k}.webm" not in have]
+    if missing:
+        print(f"{book_id}: {len(missing)} of {len(keys)} recordings still missing")
+    return not missing
+
+
 def main() -> None:
     build = sys.argv[1]
+    with_audio = "--audio" in sys.argv[2:]
     config = json.load(open(os.path.join(ROOT, "books.json"), encoding="utf-8"))
     index_path = os.path.join(ROOT, "index.json")
     old = {}
@@ -83,7 +96,8 @@ def main() -> None:
         previous = old.get(book_id)
         folder = os.path.join(ROOT, book_id)
         os.makedirs(folder, exist_ok=True)
-        if previous and previous["book"]["sha256"] == digest:
+        add_audio = with_audio and audio_complete(build, book_id)
+        if previous and previous["book"]["sha256"] == digest and (previous.get("audio") or not add_audio):
             entry = dict(previous)
             print(f"{book_id}: unchanged, version {entry['version']}")
         else:
@@ -93,7 +107,7 @@ def main() -> None:
                 dst.write(src.read())
             entry = {"id": book_id, "version": version, "book": describe(tsv)}
             audio_dir = os.path.join(build, "audio", book_id)
-            if os.path.isdir(audio_dir) and os.listdir(audio_dir):
+            if add_audio:
                 zips = write_zips(audio_dir, os.path.join(folder, f"{book_id}-{version}-audio"))
                 entry["audio"] = [describe(z) for z in zips]
             print(f"{book_id}: new version {version}")

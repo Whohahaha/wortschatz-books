@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "books": [
+    {
+      "id": "goethe_a2",
+      "title": "歌德 A2 词书",
+      "description": "歌德 A2 词表里比 A1 新增的词，学完内置的 A1 词书后接着学。",
+      "level": "A2",
+      "version": 1,
+      "words": 588,
+      "book": {
+        "path": "goethe_a2/goethe_a2-1.tsv",
+        "bytes": 71919,
+        "sha256": "546c2ba43f06718705cab448bbbaf959cc59b95601761c6d431bec21d23f7f35"
+      }
+    },
+    {
+      "id": "goethe_b1",
+      "title": "歌德 B1 词书",
+      "description": "歌德 B1 词表里比 A1、A2 新增的词。",
+      "level": "B1",
+      "version": 1,
+      "words": 1640,
+      "book": {
+        "path": "goethe_b1/goethe_b1-1.tsv",
+        "bytes": 217714,
+        "sha256": "4e3ce48f27c1809b4494ac8061392d3cd50df7191aab2f5de4f51762e1c5131d"
+      }
+    }
+  ]
+}
