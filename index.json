@@ -6,45 +6,26 @@
       "title": "歌德 A2 词书",
       "description": "歌德 A2 词表里比 A1 新增的词，学完内置的 A1 词书后接着学。",
       "level": "A2",
-      "version": 2,
+      "version": 3,
       "words": 588,
       "book": {
-        "path": "goethe_a2/goethe_a2-2.tsv",
-        "bytes": 71919,
-        "sha256": "546c2ba43f06718705cab448bbbaf959cc59b95601761c6d431bec21d23f7f35"
-      },
-      "audio": [
-        {
-          "path": "goethe_a2/goethe_a2-2-audio-1.zip",
-          "bytes": 9582678,
-          "sha256": "8503d9a82145b09afe8fed8c33e7b774faecc3f5c0fc50a6ec7c227552089dbd"
-        }
-      ]
+        "path": "goethe_a2/goethe_a2-3.tsv",
+        "bytes": 72520,
+        "sha256": "88ad59febacec8ca8eddfd00014523b9cf7a57e7b1dec74c10c2f354b4fadc19"
+      }
     },
     {
       "id": "goethe_b1",
       "title": "歌德 B1 词书",
       "description": "歌德 B1 词表里比 A1、A2 新增的词。",
       "level": "B1",
-      "version": 2,
+      "version": 3,
       "words": 1640,
       "book": {
-        "path": "goethe_b1/goethe_b1-2.tsv",
-        "bytes": 217714,
-        "sha256": "4e3ce48f27c1809b4494ac8061392d3cd50df7191aab2f5de4f51762e1c5131d"
-      },
-      "audio": [
-        {
-          "path": "goethe_b1/goethe_b1-2-audio-1.zip",
-          "bytes": 15272038,
-          "sha256": "601d43fad5cca653dbff3731249a60f364a414d1781e17a40896fe87eb7ba936"
-        },
-        {
-          "path": "goethe_b1/goethe_b1-2-audio-2.zip",
-          "bytes": 13945562,
-          "sha256": "1bde3d470de9c2d440a3b8a5b1b5c1bb5f550bc3421ac479540f1331e2671e7a"
-        }
-      ]
+        "path": "goethe_b1/goethe_b1-3.tsv",
+        "bytes": 219383,
+        "sha256": "4c3ff1a854be8f1da1df2368c22a8949541ab98464b6b85e74ede5f3c5865cfa"
+      }
     }
   ]
 }
