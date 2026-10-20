@@ -1,0 +1,5 @@
+build/
+.lexicon/
+.audio-cache/
+.voices/
+__pycache__/

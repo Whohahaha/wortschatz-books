@@ -1,0 +1,69 @@
+name: Publish word books
+
+# Builds the word books from sources/, synthesizes their pronunciation with Piper (offline neural
+# TTS, German "thorsten" voice, CC0) and commits the versioned files and index.json, which the
+# app downloads from. A book only gets a new version when its word list changed.
+on:
+  push:
+    branches: [main]
+    paths: ["sources/**", "tools/**", "base/**", "books.json", ".github/workflows/publish.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Plurals and verb forms not written in the sources, from Wiktionary via kaikki.org.
+      - name: Restore lexicon
+        id: lexicon
+        uses: actions/cache@v4
+        with:
+          path: .lexicon
+          key: lexicon-${{ hashFiles('tools/build_lexicon.py') }}
+
+      - name: Build lexicon
+        if: steps.lexicon.outputs.cache-hit != 'true'
+        run: python tools/build_lexicon.py .lexicon/de.tsv.gz
+
+      - name: Build word books
+        run: python tools/build_all.py build .lexicon/de.tsv.gz
+
+      - name: Restore generated audio
+        uses: actions/cache@v4
+        with:
+          path: .audio-cache
+          key: audio-thorsten-high-${{ hashFiles('sources/**', 'base/**', 'tools/audio_manifest.py', 'tools/gen_audio.py') }}
+          restore-keys: audio-thorsten-high-
+
+      - name: Generate pronunciation audio
+        run: |
+          command -v ffmpeg || (sudo apt-get update && sudo apt-get install -y ffmpeg)
+          python -m pip install piper-tts==1.3.0
+          python -m piper.download_voices --data-dir .voices de_DE-thorsten-high
+          for manifest in build/*.manifest; do
+            id=$(basename "$manifest" .manifest)
+            python tools/gen_audio.py "$manifest" .voices/de_DE-thorsten-high.onnx .audio-cache "build/audio/$id"
+          done
+
+      - name: Publish
+        run: |
+          python tools/publish.py build
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add -A index.json $(python -c "import json; print(' '.join(b['id'] for b in json.load(open('books.json'))))")
+          if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
+          git commit -m "Publish word books"
+          git push

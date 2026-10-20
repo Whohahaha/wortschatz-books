@@ -1,0 +1,18 @@
+[
+  {
+    "id": "goethe_a2",
+    "level": "A2",
+    "title": "歌德 A2 词书",
+    "description": "歌德 A2 词表里比 A1 新增的词，学完内置的 A1 词书后接着学。带离线发音。",
+    "sources": "sources/goethe_a2",
+    "lower": ["base/goethe_a1.tsv"]
+  },
+  {
+    "id": "goethe_b1",
+    "level": "B1",
+    "title": "歌德 B1 词书",
+    "description": "歌德 B1 词表里比 A1、A2 新增的词。带离线发音。",
+    "sources": "sources/goethe_b1",
+    "lower": ["base/goethe_a1.tsv", "build/goethe_a2.tsv"]
+  }
+]
