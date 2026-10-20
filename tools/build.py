@@ -14,7 +14,8 @@ book: the study progress on the phone is keyed by them. An id already taken by a
 in a lower book gets the level as suffix ("schloss-b1").
 
 Source columns: pos, headword, meaning, example, example_zh, [plural or auxiliary]
-  - nouns are written with their article ("der Tisch"); plural "-" means none
+  - nouns are written with their article ("der Tisch"); plural "-" means none, "pl" marks a
+    noun used only in the plural ("die Eltern"; written with "die", no plural)
   - for verbs the last column overrides the perfect auxiliary (haben / sein)
   - separable verbs mark the prefix with "|" ("an|rufen")
 """
@@ -27,7 +28,7 @@ UMLAUTS = str.maketrans({"ä": "ae", "ö": "oe", "ü": "ue", "ß": "ss"})
 ARTICLES = {"der", "die", "das"}
 POS = {"n", "v", "adj", "adv", "other"}
 COLUMNS = ["id", "level", "pos", "lemma", "gender", "plural", "meaning",
-           "present3", "preterite", "participle", "aux", "example", "example_zh"]
+           "present3", "preterite", "participle", "aux", "example", "example_zh", "number"]
 TITLES = {"A2": "歌德 A2 词书", "B1": "歌德 B1 词书"}
 
 
@@ -97,14 +98,17 @@ def main() -> None:
             assert pos in POS, f"{where}: unknown pos {pos}"
             assert meaning and example, f"{where}: empty meaning or example"
 
-            gender = plural = ""
+            gender = plural = number = ""
             forms = ["", "", "", ""]
             lemma = head
             if pos == "n":
                 article, lemma = head.split(" ", 1)
                 assert article in ARTICLES, f"{where}: noun without article: {head}"
                 gender = article
-                if extra is not None:
+                if extra == "pl":
+                    assert article == "die", f"{where}: plural-only noun must be written with die: {head}"
+                    number = "pl"
+                elif extra is not None:
                     plural = "" if extra == "-" else extra
                 else:
                     plural = nouns.get((lemma, gender), "")
@@ -133,7 +137,7 @@ def main() -> None:
             else:
                 raise AssertionError(f"{where}: no free id for {head}")
             ids.add(entry_id)
-            rows.append([entry_id, level, pos, lemma, gender, plural, meaning, *forms, example, example_zh])
+            rows.append([entry_id, level, pos, lemma, gender, plural, meaning, *forms, example, example_zh, number])
 
     with open(out_path, "w", encoding="utf-8") as out:
         out.write(f"# title: {TITLES.get(level, '歌德 ' + level + ' 词书')}\n")
